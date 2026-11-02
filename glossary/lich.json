@@ -1,0 +1,2046 @@
+[
+  {
+    "id": "am-lich",
+    "vi": "âm lịch",
+    "han": "陰曆",
+    "en": "lunar calendar",
+    "zh": "农历",
+    "ko": "음력",
+    "definition_vi": "Cách gọi thông dụng của lịch truyền thống Việt Nam, trong đó mỗi tháng bắt đầu vào ngày sóc (trăng non). Thực chất đây là lịch âm dương vì có tháng nhuận để khớp với năm Mặt Trời; Việt Nam tính theo giờ UTC+7 nên đôi khi lệch một ngày hoặc một tháng so với lịch Trung Quốc.",
+    "definition_en": "The everyday name for the traditional Vietnamese calendar, in which each month begins on the day of the new moon. Strictly it is lunisolar, since leap months keep it in step with the solar year; Vietnam computes it for UTC+7, so dates occasionally differ by a day or a month from the Chinese calendar.",
+    "related": [
+      "lich-am-duong",
+      "duong-lich",
+      "thang-nhuan",
+      "mung-mot"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vietnamese_calendar"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "duong-lich",
+    "vi": "dương lịch",
+    "han": "陽曆",
+    "en": "solar (Gregorian) calendar",
+    "zh": "公历",
+    "ko": "양력",
+    "definition_vi": "Lịch theo năm Mặt Trời, ở Việt Nam là lịch Gregory dùng trong hành chính và đời sống hằng ngày. Lịch treo tường thường in song song ngày dương lịch và ngày âm lịch.",
+    "definition_en": "A calendar based on the solar year; in Vietnam, the Gregorian calendar used for official and everyday dates. Wall calendars usually print the solar and lunar date side by side.",
+    "related": [
+      "am-lich"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "lich-am-duong",
+    "vi": "lịch âm dương",
+    "han": "陰陽曆",
+    "en": "lunisolar calendar",
+    "zh": "阴阳历",
+    "ko": "음양력",
+    "definition_vi": "Loại lịch có tháng theo tuần trăng nhưng năm được giữ khớp với mùa nhờ thêm tháng nhuận. Lịch truyền thống Việt Nam, Trung Quốc và Hàn Quốc đều thuộc loại này.",
+    "definition_en": "A calendar whose months follow the moon while leap months keep the year aligned with the seasons. The traditional Vietnamese, Chinese and Korean calendars are of this kind.",
+    "related": [
+      "am-lich",
+      "thang-nhuan",
+      "tiet-khi"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vietnamese_calendar"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "thang-nhuan",
+    "vi": "tháng nhuận",
+    "han": "閏月",
+    "en": "leap month",
+    "zh": "闰月",
+    "ko": "윤달",
+    "definition_vi": "Tháng thêm vào một số năm âm lịch để lịch không trôi so với mùa; năm đó có 13 tháng. Theo quy tắc phổ biến, khi giữa hai Đông chí có 13 lần trăng non thì tháng đầu tiên không chứa trung khí được lấy làm tháng nhuận và mang số của tháng trước nó.",
+    "definition_en": "An extra month added to some lunar years so the calendar does not drift from the seasons; such a year has 13 months. Under the usual rule, when 13 new moons fall between two winter solstices, the first month without a principal term becomes the leap month and repeats the number of the month before it.",
+    "related": [
+      "nam-nhuan",
+      "trung-khi",
+      "dong-chi",
+      "am-lich"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vietnamese_calendar"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "nam-nhuan",
+    "vi": "năm nhuận",
+    "han": "閏年",
+    "en": "leap year",
+    "zh": "闰年",
+    "ko": "윤년",
+    "definition_vi": "Với âm lịch, là năm có tháng nhuận (13 tháng, khoảng 383–385 ngày); với dương lịch, là năm có ngày 29 tháng 2. Hai khái niệm này độc lập với nhau.",
+    "definition_en": "In the lunar calendar, a year that contains a leap month (13 months, about 383–385 days); in the solar calendar, a year with 29 February. The two are unrelated.",
+    "related": [
+      "thang-nhuan"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "thang-du",
+    "vi": "tháng đủ",
+    "han": "",
+    "en": "long month (30 days)",
+    "zh": "大月",
+    "ko": "큰달",
+    "definition_vi": "Tháng âm lịch có 30 ngày. Độ dài tháng phụ thuộc vào thời điểm trăng non thực tế nên tháng đủ và tháng thiếu không xen kẽ đều đặn.",
+    "definition_en": "A lunar month of 30 days. Month length depends on the actual time of the new moon, so long and short months do not strictly alternate.",
+    "related": [
+      "thang-thieu",
+      "am-lich"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "thang-thieu",
+    "vi": "tháng thiếu",
+    "han": "",
+    "en": "short month (29 days)",
+    "zh": "小月",
+    "ko": "작은달",
+    "definition_vi": "Tháng âm lịch có 29 ngày, nên ngày cuối tháng là ngày 29. Vì vậy có năm không có ngày 30 tháng Chạp và giao thừa rơi vào đêm 29.",
+    "definition_en": "A lunar month of 29 days, ending on day 29. In some years the twelfth month is short, so there is no 30th and New Year's Eve falls on the night of the 29th.",
+    "related": [
+      "thang-du",
+      "giao-thua"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "mung-mot",
+    "vi": "mùng một",
+    "han": "",
+    "en": "first day of the lunar month",
+    "zh": "初一",
+    "ko": "초하루",
+    "definition_vi": "Ngày đầu tháng âm lịch, trùng với ngày sóc. Mười ngày đầu tháng được gọi là “mùng” (mùng một đến mùng mười); nhiều gia đình thắp hương vào ngày này.",
+    "definition_en": "The first day of a lunar month, the day of the new moon. The first ten days are called “mùng” (mùng một to mùng mười); many families make offerings on this day.",
+    "related": [
+      "ram",
+      "cung-ram-mung-mot",
+      "am-lich"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "ram",
+    "vi": "rằm",
+    "han": "",
+    "en": "full-moon day (15th of the lunar month)",
+    "zh": "十五",
+    "ko": "보름",
+    "definition_vi": "Ngày 15 âm lịch, thời điểm trăng gần tròn nhất. Rằm tháng Giêng, rằm tháng Bảy và rằm tháng Tám là ba ngày rằm có lễ tết riêng.",
+    "definition_en": "The 15th day of a lunar month, when the moon is at or near full. The full moons of the first, seventh and eighth months each have their own festival.",
+    "related": [
+      "mung-mot",
+      "cung-ram-mung-mot",
+      "tet-nguyen-tieu",
+      "vu-lan",
+      "tet-trung-thu"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "thang-gieng",
+    "vi": "tháng Giêng",
+    "han": "",
+    "en": "first lunar month",
+    "zh": "正月",
+    "ko": "정월",
+    "definition_vi": "Tên gọi tháng thứ nhất của năm âm lịch, mở đầu bằng Tết Nguyên đán.",
+    "definition_en": "The name of the first month of the lunar year, which opens with Tết.",
+    "related": [
+      "thang-chap",
+      "tet-nguyen-dan"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "thang-chap",
+    "vi": "tháng Chạp",
+    "han": "",
+    "en": "twelfth lunar month",
+    "zh": "腊月",
+    "ko": "섣달",
+    "definition_vi": "Tên gọi tháng cuối cùng của năm âm lịch, thời gian chuẩn bị Tết: tiễn ông Công ông Táo, tảo mộ, cúng tất niên.",
+    "definition_en": "The name of the last month of the lunar year, a time of preparing for Tết: seeing off the Kitchen Gods, tending graves and the year-end offering.",
+    "related": [
+      "thang-gieng",
+      "ong-cong-ong-tao",
+      "tat-nien"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "thoi-than",
+    "vi": "thời thần",
+    "han": "時辰",
+    "en": "double hour",
+    "zh": "时辰",
+    "ko": "시진",
+    "definition_vi": "Đơn vị giờ truyền thống, chia ngày đêm thành 12 giờ, mỗi giờ dài hai tiếng đồng hồ và mang tên một địa chi; giờ Tý từ 23 giờ đến 1 giờ. Trong đời thường người ta nói “giờ Tý”, “giờ Ngọ”… thay vì “thời thần”.",
+    "definition_en": "The traditional unit of time that divides a day into 12 periods of two hours, each named after an earthly branch; the hour of Tý runs from 23:00 to 01:00. In everyday speech people say “giờ Tý”, “giờ Ngọ” rather than the formal term.",
+    "related": [
+      "dia-chi",
+      "gio-hoang-dao",
+      "canh"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "canh",
+    "vi": "canh",
+    "han": "更",
+    "en": "night watch",
+    "zh": "更",
+    "ko": "경",
+    "definition_vi": "Đơn vị chia đêm thành năm canh, mỗi canh khoảng hai tiếng, từ chập tối đến sáng. Cách gọi còn gặp trong văn chương và thành ngữ như “canh ba”, “thức trắng năm canh”.",
+    "definition_en": "A division of the night into five watches of about two hours each, from dusk to dawn. It survives in literature and set phrases such as “canh ba” (the third watch, around midnight).",
+    "related": [
+      "thoi-than"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "lich-van-nien",
+    "vi": "lịch vạn niên",
+    "han": "萬年曆",
+    "en": "perpetual calendar",
+    "zh": "万年历",
+    "ko": "만세력",
+    "definition_vi": "Bảng hoặc sách tra cứu ngày âm lịch, can chi và tiết khí cho nhiều năm liền. Nay từ này cũng dùng cho các ứng dụng lịch âm.",
+    "definition_en": "A table or book for looking up lunar dates, stems and branches and solar terms over many years. The word is now also used for lunar calendar apps.",
+    "related": [
+      "am-lich",
+      "can-chi",
+      "tiet-khi"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "can-chi",
+    "vi": "can chi",
+    "han": "干支",
+    "en": "stems and branches",
+    "zh": "干支",
+    "ko": "간지",
+    "definition_vi": "Hệ đếm ghép một thiên can với một địa chi, ví dụ Giáp Tý, dùng để gọi tên năm, tháng, ngày và giờ. Mười can và mười hai chi ghép lần lượt tạo thành vòng 60.",
+    "definition_en": "A naming system that pairs one heavenly stem with one earthly branch, such as Giáp Tý, to name years, months, days and hours. Pairing the ten stems and twelve branches in turn gives a cycle of 60.",
+    "related": [
+      "thien-can",
+      "dia-chi",
+      "luc-thap-hoa-giap"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sexagenary_cycle"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "thien-can",
+    "vi": "thiên can",
+    "han": "天干",
+    "en": "heavenly stems",
+    "zh": "天干",
+    "ko": "천간",
+    "definition_vi": "Mười ký hiệu theo thứ tự Giáp, Ất, Bính, Đinh, Mậu, Kỷ, Canh, Tân, Nhâm, Quý; vế đầu của mỗi tên can chi. Mỗi can gắn với một hành và với âm hoặc dương.",
+    "definition_en": "The ten signs Giáp, Ất, Bính, Đinh, Mậu, Kỷ, Canh, Tân, Nhâm, Quý, used as the first half of each stem-branch name. Each stem is linked to one of the five elements and to yin or yang.",
+    "related": [
+      "can-chi",
+      "dia-chi",
+      "can-giap"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sexagenary_cycle"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "dia-chi",
+    "vi": "địa chi",
+    "han": "地支",
+    "en": "earthly branches",
+    "zh": "地支",
+    "ko": "지지",
+    "definition_vi": "Mười hai ký hiệu theo thứ tự Tý, Sửu, Dần, Mão, Thìn, Tỵ, Ngọ, Mùi, Thân, Dậu, Tuất, Hợi; vế sau của tên can chi. Mỗi chi gắn với một con giáp và một giờ trong ngày.",
+    "definition_en": "The twelve signs Tý, Sửu, Dần, Mão, Thìn, Tỵ, Ngọ, Mùi, Thân, Dậu, Tuất, Hợi, used as the second half of a stem-branch name. Each branch is paired with a zodiac animal and a double hour.",
+    "related": [
+      "can-chi",
+      "thien-can",
+      "con-giap",
+      "chi-ty"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sexagenary_cycle"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "luc-thap-hoa-giap",
+    "vi": "lục thập hoa giáp",
+    "han": "六十花甲",
+    "en": "sexagenary cycle",
+    "zh": "六十甲子",
+    "ko": "육십갑자",
+    "definition_vi": "Vòng 60 tổ hợp can chi, bắt đầu từ Giáp Tý và kết thúc ở Quý Hợi rồi lặp lại. Vì vậy một tên năm như “Bính Ngọ” trở lại sau mỗi 60 năm.",
+    "definition_en": "The cycle of 60 stem-branch pairs, from Giáp Tý to Quý Hợi, after which it repeats. A year name such as “Bính Ngọ” therefore comes back every 60 years.",
+    "related": [
+      "can-chi",
+      "nap-am"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sexagenary_cycle"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "con-giap",
+    "vi": "con giáp",
+    "han": "",
+    "en": "zodiac animal",
+    "zh": "生肖",
+    "ko": "띠",
+    "definition_vi": "Con vật tượng trưng cho mỗi địa chi; người ta nói “tuổi Tý”, “tuổi Mão” theo năm sinh âm lịch. Bộ 12 con giáp Việt Nam có mèo (Mão) thay cho thỏ, và Sửu thường hình dung là con trâu.",
+    "definition_en": "The animal that stands for each earthly branch; people say they are “tuổi Tý” (born in a Rat year) by their lunar birth year. The Vietnamese set has the cat (Mão) instead of the rabbit, and Sửu is usually pictured as a water buffalo.",
+    "related": [
+      "dia-chi",
+      "chi-mao",
+      "chi-suu"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vietnamese_calendar"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "tuoi-mu",
+    "vi": "tuổi mụ",
+    "han": "",
+    "en": "lunar age (East Asian age reckoning)",
+    "zh": "虚岁",
+    "ko": "세는나이",
+    "definition_vi": "Cách tính tuổi truyền thống: tính một tuổi khi sinh ra và thêm một tuổi vào mỗi Tết, nên thường lớn hơn tuổi dương lịch một đến hai tuổi. Nhiều tập quán xem tuổi dựa trên cách tính này.",
+    "definition_en": "The traditional way of counting age: one year at birth, plus one at each Tết, so it is usually one or two years more than age in the Western sense. Many customs that look at age use this count.",
+    "related": [
+      "tet-nguyen-dan",
+      "xem-tuoi"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "can-giap",
+    "vi": "Giáp",
+    "han": "甲",
+    "en": "Giáp (1st heavenly stem)",
+    "zh": "甲",
+    "ko": "갑",
+    "definition_vi": "Can thứ 1 trong mười thiên can, thuộc hành Mộc, tính dương. Năm dương lịch tận cùng bằng chữ số 4 là năm Giáp.",
+    "definition_en": "The 1st of the ten heavenly stems, linked to Wood and to yang. Gregorian years ending in 4 are Giáp years.",
+    "related": [
+      "thien-can",
+      "hanh-moc",
+      "can-at"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sexagenary_cycle"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "can-at",
+    "vi": "Ất",
+    "han": "乙",
+    "en": "Ất (2nd heavenly stem)",
+    "zh": "乙",
+    "ko": "을",
+    "definition_vi": "Can thứ 2 trong mười thiên can, thuộc hành Mộc, tính âm. Năm dương lịch tận cùng bằng chữ số 5 là năm Ất.",
+    "definition_en": "The 2nd of the ten heavenly stems, linked to Wood and to yin. Gregorian years ending in 5 are Ất years.",
+    "related": [
+      "thien-can",
+      "hanh-moc",
+      "can-giap",
+      "can-binh"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sexagenary_cycle"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "can-binh",
+    "vi": "Bính",
+    "han": "丙",
+    "en": "Bính (3rd heavenly stem)",
+    "zh": "丙",
+    "ko": "병",
+    "definition_vi": "Can thứ 3 trong mười thiên can, thuộc hành Hỏa, tính dương. Năm dương lịch tận cùng bằng chữ số 6 là năm Bính.",
+    "definition_en": "The 3rd of the ten heavenly stems, linked to Fire and to yang. Gregorian years ending in 6 are Bính years.",
+    "related": [
+      "thien-can",
+      "hanh-hoa",
+      "can-at",
+      "can-dinh"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sexagenary_cycle"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "can-dinh",
+    "vi": "Đinh",
+    "han": "丁",
+    "en": "Đinh (4th heavenly stem)",
+    "zh": "丁",
+    "ko": "정",
+    "definition_vi": "Can thứ 4 trong mười thiên can, thuộc hành Hỏa, tính âm. Năm dương lịch tận cùng bằng chữ số 7 là năm Đinh.",
+    "definition_en": "The 4th of the ten heavenly stems, linked to Fire and to yin. Gregorian years ending in 7 are Đinh years.",
+    "related": [
+      "thien-can",
+      "hanh-hoa",
+      "can-binh",
+      "can-mau"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sexagenary_cycle"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "can-mau",
+    "vi": "Mậu",
+    "han": "戊",
+    "en": "Mậu (5th heavenly stem)",
+    "zh": "戊",
+    "ko": "무",
+    "definition_vi": "Can thứ 5 trong mười thiên can, thuộc hành Thổ, tính dương. Năm dương lịch tận cùng bằng chữ số 8 là năm Mậu.",
+    "definition_en": "The 5th of the ten heavenly stems, linked to Earth and to yang. Gregorian years ending in 8 are Mậu years.",
+    "related": [
+      "thien-can",
+      "hanh-tho",
+      "can-dinh",
+      "can-ky"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sexagenary_cycle"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "can-ky",
+    "vi": "Kỷ",
+    "han": "己",
+    "en": "Kỷ (6th heavenly stem)",
+    "zh": "己",
+    "ko": "기",
+    "definition_vi": "Can thứ 6 trong mười thiên can, thuộc hành Thổ, tính âm. Năm dương lịch tận cùng bằng chữ số 9 là năm Kỷ.",
+    "definition_en": "The 6th of the ten heavenly stems, linked to Earth and to yin. Gregorian years ending in 9 are Kỷ years.",
+    "related": [
+      "thien-can",
+      "hanh-tho",
+      "can-mau",
+      "can-canh"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sexagenary_cycle"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "can-canh",
+    "vi": "Canh",
+    "han": "庚",
+    "en": "Canh (7th heavenly stem)",
+    "zh": "庚",
+    "ko": "경",
+    "definition_vi": "Can thứ 7 trong mười thiên can, thuộc hành Kim, tính dương. Năm dương lịch tận cùng bằng chữ số 0 là năm Canh.",
+    "definition_en": "The 7th of the ten heavenly stems, linked to Metal and to yang. Gregorian years ending in 0 are Canh years.",
+    "related": [
+      "thien-can",
+      "hanh-kim",
+      "can-ky",
+      "can-tan"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sexagenary_cycle"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "can-tan",
+    "vi": "Tân",
+    "han": "辛",
+    "en": "Tân (8th heavenly stem)",
+    "zh": "辛",
+    "ko": "신",
+    "definition_vi": "Can thứ 8 trong mười thiên can, thuộc hành Kim, tính âm. Năm dương lịch tận cùng bằng chữ số 1 là năm Tân.",
+    "definition_en": "The 8th of the ten heavenly stems, linked to Metal and to yin. Gregorian years ending in 1 are Tân years.",
+    "related": [
+      "thien-can",
+      "hanh-kim",
+      "can-canh",
+      "can-nham"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sexagenary_cycle"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "can-nham",
+    "vi": "Nhâm",
+    "han": "壬",
+    "en": "Nhâm (9th heavenly stem)",
+    "zh": "壬",
+    "ko": "임",
+    "definition_vi": "Can thứ 9 trong mười thiên can, thuộc hành Thủy, tính dương. Năm dương lịch tận cùng bằng chữ số 2 là năm Nhâm.",
+    "definition_en": "The 9th of the ten heavenly stems, linked to Water and to yang. Gregorian years ending in 2 are Nhâm years.",
+    "related": [
+      "thien-can",
+      "hanh-thuy",
+      "can-tan",
+      "can-quy"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sexagenary_cycle"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "can-quy",
+    "vi": "Quý",
+    "han": "癸",
+    "en": "Quý (10th heavenly stem)",
+    "zh": "癸",
+    "ko": "계",
+    "definition_vi": "Can thứ 10 trong mười thiên can, thuộc hành Thủy, tính âm. Năm dương lịch tận cùng bằng chữ số 3 là năm Quý.",
+    "definition_en": "The 10th of the ten heavenly stems, linked to Water and to yin. Gregorian years ending in 3 are Quý years.",
+    "related": [
+      "thien-can",
+      "hanh-thuy",
+      "can-nham"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sexagenary_cycle"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "chi-ty",
+    "vi": "Tý",
+    "han": "子",
+    "en": "Tý (1st earthly branch; Rat)",
+    "zh": "子",
+    "ko": "자",
+    "definition_vi": "Chi thứ 1 trong mười hai địa chi, ứng với con chuột, thuộc hành Thủy. Giờ Tý kéo dài từ 23 giờ đến 1 giờ.",
+    "definition_en": "The 1st of the twelve earthly branches, paired with the rat and with Water. The hour of Tý runs from 23:00 to 01:00.",
+    "related": [
+      "dia-chi",
+      "con-giap",
+      "hanh-thuy",
+      "thoi-than"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sexagenary_cycle"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "chi-suu",
+    "vi": "Sửu",
+    "han": "丑",
+    "en": "Sửu (2nd earthly branch; Buffalo (Ox))",
+    "zh": "丑",
+    "ko": "축",
+    "definition_vi": "Chi thứ 2 trong mười hai địa chi, ứng với con trâu, thuộc hành Thổ. Giờ Sửu kéo dài từ 1 giờ đến 3 giờ.",
+    "definition_en": "The 2nd of the twelve earthly branches, paired with the buffalo and with Earth. The hour of Sửu runs from 01:00 to 03:00.",
+    "related": [
+      "dia-chi",
+      "con-giap",
+      "hanh-tho"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sexagenary_cycle"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "chi-dan",
+    "vi": "Dần",
+    "han": "寅",
+    "en": "Dần (3rd earthly branch; Tiger)",
+    "zh": "寅",
+    "ko": "인",
+    "definition_vi": "Chi thứ 3 trong mười hai địa chi, ứng với con hổ, thuộc hành Mộc. Giờ Dần kéo dài từ 3 giờ đến 5 giờ.",
+    "definition_en": "The 3rd of the twelve earthly branches, paired with the tiger and with Wood. The hour of Dần runs from 03:00 to 05:00.",
+    "related": [
+      "dia-chi",
+      "con-giap",
+      "hanh-moc"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sexagenary_cycle"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "chi-mao",
+    "vi": "Mão",
+    "han": "卯",
+    "en": "Mão (4th earthly branch; Cat)",
+    "zh": "卯",
+    "ko": "묘",
+    "definition_vi": "Chi thứ 4 trong mười hai địa chi, ứng với con mèo, thuộc hành Mộc. Giờ Mão kéo dài từ 5 giờ đến 7 giờ. Ở Việt Nam con giáp của Mão là mèo, không phải thỏ như ở Trung Quốc và Hàn Quốc.",
+    "definition_en": "The 4th of the twelve earthly branches, paired with the cat and with Wood. The hour of Mão runs from 05:00 to 07:00. In Vietnam the animal for Mão is the cat, not the rabbit used in China and Korea.",
+    "related": [
+      "dia-chi",
+      "con-giap",
+      "hanh-moc"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sexagenary_cycle"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "chi-thin",
+    "vi": "Thìn",
+    "han": "辰",
+    "en": "Thìn (5th earthly branch; Dragon)",
+    "zh": "辰",
+    "ko": "진",
+    "definition_vi": "Chi thứ 5 trong mười hai địa chi, ứng với con rồng, thuộc hành Thổ. Giờ Thìn kéo dài từ 7 giờ đến 9 giờ.",
+    "definition_en": "The 5th of the twelve earthly branches, paired with the dragon and with Earth. The hour of Thìn runs from 07:00 to 09:00.",
+    "related": [
+      "dia-chi",
+      "con-giap",
+      "hanh-tho"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sexagenary_cycle"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "chi-ti",
+    "vi": "Tỵ",
+    "han": "巳",
+    "en": "Tỵ (6th earthly branch; Snake)",
+    "zh": "巳",
+    "ko": "사",
+    "definition_vi": "Chi thứ 6 trong mười hai địa chi, ứng với con rắn, thuộc hành Hỏa. Giờ Tỵ kéo dài từ 9 giờ đến 11 giờ.",
+    "definition_en": "The 6th of the twelve earthly branches, paired with the snake and with Fire. The hour of Tỵ runs from 09:00 to 11:00.",
+    "related": [
+      "dia-chi",
+      "con-giap",
+      "hanh-hoa"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sexagenary_cycle"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "chi-ngo",
+    "vi": "Ngọ",
+    "han": "午",
+    "en": "Ngọ (7th earthly branch; Horse)",
+    "zh": "午",
+    "ko": "오",
+    "definition_vi": "Chi thứ 7 trong mười hai địa chi, ứng với con ngựa, thuộc hành Hỏa. Giờ Ngọ kéo dài từ 11 giờ đến 13 giờ.",
+    "definition_en": "The 7th of the twelve earthly branches, paired with the horse and with Fire. The hour of Ngọ runs from 11:00 to 13:00.",
+    "related": [
+      "dia-chi",
+      "con-giap",
+      "hanh-hoa"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sexagenary_cycle"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "chi-mui",
+    "vi": "Mùi",
+    "han": "未",
+    "en": "Mùi (8th earthly branch; Goat)",
+    "zh": "未",
+    "ko": "미",
+    "definition_vi": "Chi thứ 8 trong mười hai địa chi, ứng với con dê, thuộc hành Thổ. Giờ Mùi kéo dài từ 13 giờ đến 15 giờ.",
+    "definition_en": "The 8th of the twelve earthly branches, paired with the goat and with Earth. The hour of Mùi runs from 13:00 to 15:00.",
+    "related": [
+      "dia-chi",
+      "con-giap",
+      "hanh-tho"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sexagenary_cycle"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "chi-than",
+    "vi": "Thân",
+    "han": "申",
+    "en": "Thân (9th earthly branch; Monkey)",
+    "zh": "申",
+    "ko": "신",
+    "definition_vi": "Chi thứ 9 trong mười hai địa chi, ứng với con khỉ, thuộc hành Kim. Giờ Thân kéo dài từ 15 giờ đến 17 giờ.",
+    "definition_en": "The 9th of the twelve earthly branches, paired with the monkey and with Metal. The hour of Thân runs from 15:00 to 17:00.",
+    "related": [
+      "dia-chi",
+      "con-giap",
+      "hanh-kim"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sexagenary_cycle"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "chi-dau",
+    "vi": "Dậu",
+    "han": "酉",
+    "en": "Dậu (10th earthly branch; Rooster)",
+    "zh": "酉",
+    "ko": "유",
+    "definition_vi": "Chi thứ 10 trong mười hai địa chi, ứng với con gà, thuộc hành Kim. Giờ Dậu kéo dài từ 17 giờ đến 19 giờ.",
+    "definition_en": "The 10th of the twelve earthly branches, paired with the rooster and with Metal. The hour of Dậu runs from 17:00 to 19:00.",
+    "related": [
+      "dia-chi",
+      "con-giap",
+      "hanh-kim"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sexagenary_cycle"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "chi-tuat",
+    "vi": "Tuất",
+    "han": "戌",
+    "en": "Tuất (11th earthly branch; Dog)",
+    "zh": "戌",
+    "ko": "술",
+    "definition_vi": "Chi thứ 11 trong mười hai địa chi, ứng với con chó, thuộc hành Thổ. Giờ Tuất kéo dài từ 19 giờ đến 21 giờ.",
+    "definition_en": "The 11th of the twelve earthly branches, paired with the dog and with Earth. The hour of Tuất runs from 19:00 to 21:00.",
+    "related": [
+      "dia-chi",
+      "con-giap",
+      "hanh-tho"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sexagenary_cycle"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "chi-hoi",
+    "vi": "Hợi",
+    "han": "亥",
+    "en": "Hợi (12th earthly branch; Pig)",
+    "zh": "亥",
+    "ko": "해",
+    "definition_vi": "Chi thứ 12 trong mười hai địa chi, ứng với con lợn, thuộc hành Thủy. Giờ Hợi kéo dài từ 21 giờ đến 23 giờ.",
+    "definition_en": "The 12th of the twelve earthly branches, paired with the pig and with Water. The hour of Hợi runs from 21:00 to 23:00.",
+    "related": [
+      "dia-chi",
+      "con-giap",
+      "hanh-thuy"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sexagenary_cycle"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "tiet-khi",
+    "vi": "tiết khí",
+    "han": "節氣",
+    "en": "solar term",
+    "zh": "节气",
+    "ko": "절기",
+    "definition_vi": "Hai mươi bốn mốc chia đường đi biểu kiến của Mặt Trời trong năm thành các khoảng 15°, nên rơi vào gần như cùng ngày dương lịch mỗi năm. Tên tiết khí theo khí hậu lưu vực Hoàng Hà, nơi hệ thống ra đời, nên có thể không khớp thời tiết ở Việt Nam.",
+    "definition_en": "Twenty-four points that divide the sun's apparent yearly path into 15° steps, so they fall on nearly the same Gregorian dates each year. The names follow the climate of the Yellow River basin where the system arose and may not match the weather in Vietnam.",
+    "related": [
+      "trung-khi",
+      "lap-xuan",
+      "dong-chi",
+      "lich-am-duong"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solar_term"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "trung-khi",
+    "vi": "trung khí",
+    "han": "中氣",
+    "en": "principal term (zhongqi)",
+    "zh": "中气",
+    "ko": "중기",
+    "definition_vi": "Mười hai tiết khí ở vị trí chẵn (Vũ thủy, Xuân phân, Cốc vũ…, Đông chí, Đại hàn), xen kẽ với mười hai “tiết”. Trung khí được dùng để đánh số tháng âm lịch và xác định tháng nhuận.",
+    "definition_en": "The twelve even-numbered solar terms (Rain Water, Spring Equinox, Grain Rain … Winter Solstice, Major Cold), alternating with the twelve “sectional” terms. Principal terms number the lunar months and decide which month is a leap month.",
+    "related": [
+      "tiet-khi",
+      "thang-nhuan",
+      "dong-chi"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solar_term"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "lap-xuan",
+    "vi": "Lập xuân",
+    "han": "立春",
+    "en": "Start of Spring (Lập xuân)",
+    "zh": "立春",
+    "ko": "입춘",
+    "definition_vi": "Tiết khí thứ 1 (tính từ Lập xuân), bắt đầu khi Mặt Trời ở kinh độ hoàng đạo 315°, thường vào khoảng ngày 4 tháng 2 dương lịch. Tên có nghĩa là bắt đầu mùa xuân. Trong bát tự, năm can chi được tính đổi tại Lập xuân chứ không phải tại mùng một Tết.",
+    "definition_en": "Solar term 1 (counting from Start of Spring), beginning when the sun reaches ecliptic longitude 315°, usually around 4 February. The name means the start of spring. In Four Pillars (bát tự) reckoning, the stem-branch year changes at this term rather than on the first day of Tết.",
+    "related": [
+      "tiet-khi",
+      "dai-han",
+      "vu-thuy"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solar_term"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "vu-thuy",
+    "vi": "Vũ thủy",
+    "han": "雨水",
+    "en": "Rain Water (Vũ thủy)",
+    "zh": "雨水",
+    "ko": "우수",
+    "definition_vi": "Tiết khí thứ 2 (tính từ Lập xuân), bắt đầu khi Mặt Trời ở kinh độ hoàng đạo 330°, thường vào khoảng ngày 19 tháng 2 dương lịch. Tên có nghĩa là nước mưa.",
+    "definition_en": "Solar term 2 (counting from Start of Spring), beginning when the sun reaches ecliptic longitude 330°, usually around 19 February. The name means rain water.",
+    "related": [
+      "tiet-khi",
+      "lap-xuan",
+      "kinh-trap"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solar_term"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "kinh-trap",
+    "vi": "Kinh trập",
+    "han": "驚蟄",
+    "en": "Awakening of Insects (Kinh trập)",
+    "zh": "惊蛰",
+    "ko": "경칩",
+    "definition_vi": "Tiết khí thứ 3 (tính từ Lập xuân), bắt đầu khi Mặt Trời ở kinh độ hoàng đạo 345°, thường vào khoảng ngày 5 tháng 3 dương lịch. Tên có nghĩa là sâu bọ ngủ đông giật mình thức dậy.",
+    "definition_en": "Solar term 3 (counting from Start of Spring), beginning when the sun reaches ecliptic longitude 345°, usually around 5 March. The name means hibernating insects being startled awake.",
+    "related": [
+      "tiet-khi",
+      "vu-thuy",
+      "xuan-phan"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solar_term"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "xuan-phan",
+    "vi": "Xuân phân",
+    "han": "春分",
+    "en": "Spring Equinox (Xuân phân)",
+    "zh": "春分",
+    "ko": "춘분",
+    "definition_vi": "Tiết khí thứ 4 (tính từ Lập xuân), bắt đầu khi Mặt Trời ở kinh độ hoàng đạo 0°, thường vào khoảng ngày 20 tháng 3 dương lịch. Tên có nghĩa là giữa mùa xuân; ngày và đêm dài gần bằng nhau.",
+    "definition_en": "Solar term 4 (counting from Start of Spring), beginning when the sun reaches ecliptic longitude 0°, usually around 20 March. The name means mid-spring; day and night are of about equal length.",
+    "related": [
+      "tiet-khi",
+      "kinh-trap",
+      "thanh-minh"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solar_term"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "thanh-minh",
+    "vi": "Thanh minh",
+    "han": "清明",
+    "en": "Clear and Bright (Thanh minh)",
+    "zh": "清明",
+    "ko": "청명",
+    "definition_vi": "Tiết khí thứ 5 (tính từ Lập xuân), bắt đầu khi Mặt Trời ở kinh độ hoàng đạo 15°, thường vào khoảng ngày 4 tháng 4 dương lịch. Tên có nghĩa là trời trong sáng. Nhiều gia đình đi tảo mộ trong khoảng thời gian của tiết này.",
+    "definition_en": "Solar term 5 (counting from Start of Spring), beginning when the sun reaches ecliptic longitude 15°, usually around 4 April. The name means clear and bright. Many families visit and tend family graves during this period.",
+    "related": [
+      "tiet-khi",
+      "xuan-phan",
+      "coc-vu",
+      "tet-thanh-minh"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solar_term"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "coc-vu",
+    "vi": "Cốc vũ",
+    "han": "穀雨",
+    "en": "Grain Rain (Cốc vũ)",
+    "zh": "谷雨",
+    "ko": "곡우",
+    "definition_vi": "Tiết khí thứ 6 (tính từ Lập xuân), bắt đầu khi Mặt Trời ở kinh độ hoàng đạo 30°, thường vào khoảng ngày 20 tháng 4 dương lịch. Tên có nghĩa là mưa cho lúa.",
+    "definition_en": "Solar term 6 (counting from Start of Spring), beginning when the sun reaches ecliptic longitude 30°, usually around 20 April. The name means rain for the grain.",
+    "related": [
+      "tiet-khi",
+      "thanh-minh",
+      "lap-ha"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solar_term"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "lap-ha",
+    "vi": "Lập hạ",
+    "han": "立夏",
+    "en": "Start of Summer (Lập hạ)",
+    "zh": "立夏",
+    "ko": "입하",
+    "definition_vi": "Tiết khí thứ 7 (tính từ Lập xuân), bắt đầu khi Mặt Trời ở kinh độ hoàng đạo 45°, thường vào khoảng ngày 5 tháng 5 dương lịch. Tên có nghĩa là bắt đầu mùa hè.",
+    "definition_en": "Solar term 7 (counting from Start of Spring), beginning when the sun reaches ecliptic longitude 45°, usually around 5 May. The name means the start of summer.",
+    "related": [
+      "tiet-khi",
+      "coc-vu",
+      "tieu-man"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solar_term"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "tieu-man",
+    "vi": "Tiểu mãn",
+    "han": "小滿",
+    "en": "Grain Buds (Tiểu mãn)",
+    "zh": "小满",
+    "ko": "소만",
+    "definition_vi": "Tiết khí thứ 8 (tính từ Lập xuân), bắt đầu khi Mặt Trời ở kinh độ hoàng đạo 60°, thường vào khoảng ngày 21 tháng 5 dương lịch. Tên có nghĩa là hạt lúa bắt đầu đầy.",
+    "definition_en": "Solar term 8 (counting from Start of Spring), beginning when the sun reaches ecliptic longitude 60°, usually around 21 May. The name means grain starting to fill.",
+    "related": [
+      "tiet-khi",
+      "lap-ha",
+      "mang-chung"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solar_term"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "mang-chung",
+    "vi": "Mang chủng",
+    "han": "芒種",
+    "en": "Grain in Ear (Mang chủng)",
+    "zh": "芒种",
+    "ko": "망종",
+    "definition_vi": "Tiết khí thứ 9 (tính từ Lập xuân), bắt đầu khi Mặt Trời ở kinh độ hoàng đạo 75°, thường vào khoảng ngày 5 tháng 6 dương lịch. Tên có nghĩa là lúa trổ bông có râu.",
+    "definition_en": "Solar term 9 (counting from Start of Spring), beginning when the sun reaches ecliptic longitude 75°, usually around 5 June. The name means awned grain coming into ear.",
+    "related": [
+      "tiet-khi",
+      "tieu-man",
+      "ha-chi"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solar_term"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "ha-chi",
+    "vi": "Hạ chí",
+    "han": "夏至",
+    "en": "Summer Solstice (Hạ chí)",
+    "zh": "夏至",
+    "ko": "하지",
+    "definition_vi": "Tiết khí thứ 10 (tính từ Lập xuân), bắt đầu khi Mặt Trời ở kinh độ hoàng đạo 90°, thường vào khoảng ngày 21 tháng 6 dương lịch. Tên có nghĩa là giữa mùa hè; ở Bắc bán cầu ngày dài nhất năm.",
+    "definition_en": "Solar term 10 (counting from Start of Spring), beginning when the sun reaches ecliptic longitude 90°, usually around 21 June. The name means mid-summer; the longest day of the year in the northern hemisphere.",
+    "related": [
+      "tiet-khi",
+      "mang-chung",
+      "tieu-thu"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solar_term"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "tieu-thu",
+    "vi": "Tiểu thử",
+    "han": "小暑",
+    "en": "Minor Heat (Tiểu thử)",
+    "zh": "小暑",
+    "ko": "소서",
+    "definition_vi": "Tiết khí thứ 11 (tính từ Lập xuân), bắt đầu khi Mặt Trời ở kinh độ hoàng đạo 105°, thường vào khoảng ngày 7 tháng 7 dương lịch. Tên có nghĩa là nóng nhẹ.",
+    "definition_en": "Solar term 11 (counting from Start of Spring), beginning when the sun reaches ecliptic longitude 105°, usually around 7 July. The name means minor heat.",
+    "related": [
+      "tiet-khi",
+      "ha-chi",
+      "dai-thu"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solar_term"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "dai-thu",
+    "vi": "Đại thử",
+    "han": "大暑",
+    "en": "Major Heat (Đại thử)",
+    "zh": "大暑",
+    "ko": "대서",
+    "definition_vi": "Tiết khí thứ 12 (tính từ Lập xuân), bắt đầu khi Mặt Trời ở kinh độ hoàng đạo 120°, thường vào khoảng ngày 22 tháng 7 dương lịch. Tên có nghĩa là nóng nhất.",
+    "definition_en": "Solar term 12 (counting from Start of Spring), beginning when the sun reaches ecliptic longitude 120°, usually around 22 July. The name means major heat.",
+    "related": [
+      "tiet-khi",
+      "tieu-thu",
+      "lap-thu"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solar_term"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "lap-thu",
+    "vi": "Lập thu",
+    "han": "立秋",
+    "en": "Start of Autumn (Lập thu)",
+    "zh": "立秋",
+    "ko": "입추",
+    "definition_vi": "Tiết khí thứ 13 (tính từ Lập xuân), bắt đầu khi Mặt Trời ở kinh độ hoàng đạo 135°, thường vào khoảng ngày 7 tháng 8 dương lịch. Tên có nghĩa là bắt đầu mùa thu.",
+    "definition_en": "Solar term 13 (counting from Start of Spring), beginning when the sun reaches ecliptic longitude 135°, usually around 7 August. The name means the start of autumn.",
+    "related": [
+      "tiet-khi",
+      "dai-thu",
+      "xu-thu"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solar_term"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "xu-thu",
+    "vi": "Xử thử",
+    "han": "處暑",
+    "en": "End of Heat (Xử thử)",
+    "zh": "处暑",
+    "ko": "처서",
+    "definition_vi": "Tiết khí thứ 14 (tính từ Lập xuân), bắt đầu khi Mặt Trời ở kinh độ hoàng đạo 150°, thường vào khoảng ngày 23 tháng 8 dương lịch. Tên có nghĩa là hết nóng.",
+    "definition_en": "Solar term 14 (counting from Start of Spring), beginning when the sun reaches ecliptic longitude 150°, usually around 23 August. The name means the heat coming to an end.",
+    "related": [
+      "tiet-khi",
+      "lap-thu",
+      "bach-lo"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solar_term"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "bach-lo",
+    "vi": "Bạch lộ",
+    "han": "白露",
+    "en": "White Dew (Bạch lộ)",
+    "zh": "白露",
+    "ko": "백로",
+    "definition_vi": "Tiết khí thứ 15 (tính từ Lập xuân), bắt đầu khi Mặt Trời ở kinh độ hoàng đạo 165°, thường vào khoảng ngày 7 tháng 9 dương lịch. Tên có nghĩa là sương trắng.",
+    "definition_en": "Solar term 15 (counting from Start of Spring), beginning when the sun reaches ecliptic longitude 165°, usually around 7 September. The name means white dew.",
+    "related": [
+      "tiet-khi",
+      "xu-thu",
+      "thu-phan"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solar_term"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "thu-phan",
+    "vi": "Thu phân",
+    "han": "秋分",
+    "en": "Autumn Equinox (Thu phân)",
+    "zh": "秋分",
+    "ko": "추분",
+    "definition_vi": "Tiết khí thứ 16 (tính từ Lập xuân), bắt đầu khi Mặt Trời ở kinh độ hoàng đạo 180°, thường vào khoảng ngày 23 tháng 9 dương lịch. Tên có nghĩa là giữa mùa thu; ngày và đêm lại dài gần bằng nhau.",
+    "definition_en": "Solar term 16 (counting from Start of Spring), beginning when the sun reaches ecliptic longitude 180°, usually around 23 September. The name means mid-autumn; day and night are again of about equal length.",
+    "related": [
+      "tiet-khi",
+      "bach-lo",
+      "han-lo"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solar_term"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "han-lo",
+    "vi": "Hàn lộ",
+    "han": "寒露",
+    "en": "Cold Dew (Hàn lộ)",
+    "zh": "寒露",
+    "ko": "한로",
+    "definition_vi": "Tiết khí thứ 17 (tính từ Lập xuân), bắt đầu khi Mặt Trời ở kinh độ hoàng đạo 195°, thường vào khoảng ngày 8 tháng 10 dương lịch. Tên có nghĩa là sương lạnh.",
+    "definition_en": "Solar term 17 (counting from Start of Spring), beginning when the sun reaches ecliptic longitude 195°, usually around 8 October. The name means cold dew.",
+    "related": [
+      "tiet-khi",
+      "thu-phan",
+      "suong-giang"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solar_term"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "suong-giang",
+    "vi": "Sương giáng",
+    "han": "霜降",
+    "en": "Frost's Descent (Sương giáng)",
+    "zh": "霜降",
+    "ko": "상강",
+    "definition_vi": "Tiết khí thứ 18 (tính từ Lập xuân), bắt đầu khi Mặt Trời ở kinh độ hoàng đạo 210°, thường vào khoảng ngày 23 tháng 10 dương lịch. Tên có nghĩa là sương muối bắt đầu xuống.",
+    "definition_en": "Solar term 18 (counting from Start of Spring), beginning when the sun reaches ecliptic longitude 210°, usually around 23 October. The name means the first frost.",
+    "related": [
+      "tiet-khi",
+      "han-lo",
+      "lap-dong"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solar_term"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "lap-dong",
+    "vi": "Lập đông",
+    "han": "立冬",
+    "en": "Start of Winter (Lập đông)",
+    "zh": "立冬",
+    "ko": "입동",
+    "definition_vi": "Tiết khí thứ 19 (tính từ Lập xuân), bắt đầu khi Mặt Trời ở kinh độ hoàng đạo 225°, thường vào khoảng ngày 7 tháng 11 dương lịch. Tên có nghĩa là bắt đầu mùa đông.",
+    "definition_en": "Solar term 19 (counting from Start of Spring), beginning when the sun reaches ecliptic longitude 225°, usually around 7 November. The name means the start of winter.",
+    "related": [
+      "tiet-khi",
+      "suong-giang",
+      "tieu-tuyet"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solar_term"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "tieu-tuyet",
+    "vi": "Tiểu tuyết",
+    "han": "小雪",
+    "en": "Minor Snow (Tiểu tuyết)",
+    "zh": "小雪",
+    "ko": "소설",
+    "definition_vi": "Tiết khí thứ 20 (tính từ Lập xuân), bắt đầu khi Mặt Trời ở kinh độ hoàng đạo 240°, thường vào khoảng ngày 22 tháng 11 dương lịch. Tên có nghĩa là tuyết nhỏ.",
+    "definition_en": "Solar term 20 (counting from Start of Spring), beginning when the sun reaches ecliptic longitude 240°, usually around 22 November. The name means minor snow.",
+    "related": [
+      "tiet-khi",
+      "lap-dong",
+      "dai-tuyet"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solar_term"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "dai-tuyet",
+    "vi": "Đại tuyết",
+    "han": "大雪",
+    "en": "Major Snow (Đại tuyết)",
+    "zh": "大雪",
+    "ko": "대설",
+    "definition_vi": "Tiết khí thứ 21 (tính từ Lập xuân), bắt đầu khi Mặt Trời ở kinh độ hoàng đạo 255°, thường vào khoảng ngày 7 tháng 12 dương lịch. Tên có nghĩa là tuyết lớn.",
+    "definition_en": "Solar term 21 (counting from Start of Spring), beginning when the sun reaches ecliptic longitude 255°, usually around 7 December. The name means major snow.",
+    "related": [
+      "tiet-khi",
+      "tieu-tuyet",
+      "dong-chi"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solar_term"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "dong-chi",
+    "vi": "Đông chí",
+    "han": "冬至",
+    "en": "Winter Solstice (Đông chí)",
+    "zh": "冬至",
+    "ko": "동지",
+    "definition_vi": "Tiết khí thứ 22 (tính từ Lập xuân), bắt đầu khi Mặt Trời ở kinh độ hoàng đạo 270°, thường vào khoảng ngày 21 tháng 12 dương lịch. Tên có nghĩa là giữa mùa đông; ở Bắc bán cầu đêm dài nhất năm. Tháng âm lịch chứa Đông chí luôn là tháng Mười Một.",
+    "definition_en": "Solar term 22 (counting from Start of Spring), beginning when the sun reaches ecliptic longitude 270°, usually around 21 December. The name means mid-winter; the longest night of the year in the northern hemisphere. The lunar month containing this term is always the eleventh month.",
+    "related": [
+      "tiet-khi",
+      "dai-tuyet",
+      "tieu-han"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solar_term"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "tieu-han",
+    "vi": "Tiểu hàn",
+    "han": "小寒",
+    "en": "Minor Cold (Tiểu hàn)",
+    "zh": "小寒",
+    "ko": "소한",
+    "definition_vi": "Tiết khí thứ 23 (tính từ Lập xuân), bắt đầu khi Mặt Trời ở kinh độ hoàng đạo 285°, thường vào khoảng ngày 5 tháng 1 dương lịch. Tên có nghĩa là rét nhẹ.",
+    "definition_en": "Solar term 23 (counting from Start of Spring), beginning when the sun reaches ecliptic longitude 285°, usually around 5 January. The name means minor cold.",
+    "related": [
+      "tiet-khi",
+      "dong-chi",
+      "dai-han"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solar_term"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "dai-han",
+    "vi": "Đại hàn",
+    "han": "大寒",
+    "en": "Major Cold (Đại hàn)",
+    "zh": "大寒",
+    "ko": "대한",
+    "definition_vi": "Tiết khí thứ 24 (tính từ Lập xuân), bắt đầu khi Mặt Trời ở kinh độ hoàng đạo 300°, thường vào khoảng ngày 20 tháng 1 dương lịch. Tên có nghĩa là rét đậm.",
+    "definition_en": "Solar term 24 (counting from Start of Spring), beginning when the sun reaches ecliptic longitude 300°, usually around 20 January. The name means major cold.",
+    "related": [
+      "tiet-khi",
+      "tieu-han",
+      "lap-xuan"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solar_term"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "ngay-hoang-dao",
+    "vi": "ngày hoàng đạo",
+    "han": "黃道日",
+    "en": "auspicious (hoàng đạo) day",
+    "zh": "黄道日",
+    "ko": "황도일",
+    "definition_vi": "Ngày mà theo lịch pháp truyền thống do một trong sáu thần hoàng đạo cai quản. Sách lịch thường coi đây là ngày thuận để khởi sự; đây là quy ước tham khảo văn hóa, không phải dự báo.",
+    "definition_en": "A day that, by the traditional almanac, is governed by one of the six “yellow path” spirits. Almanacs often treat it as a good day to begin things; this is a cultural convention, not a forecast.",
+    "related": [
+      "ngay-hac-dao",
+      "gio-hoang-dao",
+      "than-thanh-long",
+      "chon-ngay"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "ngay-hac-dao",
+    "vi": "ngày hắc đạo",
+    "han": "黑道日",
+    "en": "inauspicious (hắc đạo) day",
+    "zh": "黑道日",
+    "ko": "흑도일",
+    "definition_vi": "Ngày mà theo lịch pháp truyền thống do một trong sáu thần hắc đạo cai quản. Sách lịch thường khuyên cân nhắc trước việc lớn vào ngày này.",
+    "definition_en": "A day that, by the traditional almanac, is governed by one of the six “black path” spirits. Almanacs often advise caution before major undertakings on such a day.",
+    "related": [
+      "ngay-hoang-dao",
+      "than-bach-ho"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "gio-hoang-dao",
+    "vi": "giờ hoàng đạo",
+    "han": "黃道時",
+    "en": "auspicious hour",
+    "zh": "黄道时辰",
+    "ko": "황도시",
+    "definition_vi": "Sáu trong mười hai giờ của một ngày ứng với thần hoàng đạo; sáu giờ còn lại là giờ hắc đạo. Nhiều người tham khảo giờ hoàng đạo khi chọn giờ xuất hành, cưới hỏi hay khai trương.",
+    "definition_en": "The six of a day's twelve double hours that fall under a “yellow path” spirit; the other six are inauspicious hours. Many people consult them when choosing a time to set out, marry or open a business.",
+    "related": [
+      "thoi-than",
+      "ngay-hoang-dao",
+      "chon-ngay"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "than-thanh-long",
+    "vi": "Thanh Long",
+    "han": "青龍",
+    "en": "Thanh Long (Azure Dragon)",
+    "zh": "青龙",
+    "ko": "청룡",
+    "definition_vi": "Thần thứ 1 trong vòng 12 thần trực ngày và giờ, thuộc nhóm hoàng đạo. Tên có nghĩa là “Rồng xanh”.",
+    "definition_en": "Spirit 1 of the twelve that govern days and hours in turn, one of the auspicious (hoàng đạo) spirits. The name means “Azure Dragon”.",
+    "related": [
+      "ngay-hoang-dao",
+      "gio-hoang-dao"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "than-minh-duong",
+    "vi": "Minh Đường",
+    "han": "明堂",
+    "en": "Minh Đường (Bright Hall)",
+    "zh": "明堂",
+    "ko": "명당",
+    "definition_vi": "Thần thứ 2 trong vòng 12 thần trực ngày và giờ, thuộc nhóm hoàng đạo. Tên có nghĩa là “Nhà sáng”.",
+    "definition_en": "Spirit 2 of the twelve that govern days and hours in turn, one of the auspicious (hoàng đạo) spirits. The name means “Bright Hall”.",
+    "related": [
+      "ngay-hoang-dao",
+      "gio-hoang-dao"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "than-thien-hinh",
+    "vi": "Thiên Hình",
+    "han": "天刑",
+    "en": "Thiên Hình (Heavenly Punishment)",
+    "zh": "天刑",
+    "ko": "천형",
+    "definition_vi": "Thần thứ 3 trong vòng 12 thần trực ngày và giờ, thuộc nhóm hắc đạo. Tên có nghĩa là “Hình phạt của trời”.",
+    "definition_en": "Spirit 3 of the twelve that govern days and hours in turn, one of the inauspicious (hắc đạo) spirits. The name means “Heavenly Punishment”.",
+    "related": [
+      "ngay-hac-dao",
+      "gio-hoang-dao"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "than-chu-tuoc",
+    "vi": "Chu Tước",
+    "han": "朱雀",
+    "en": "Chu Tước (Vermilion Bird)",
+    "zh": "朱雀",
+    "ko": "주작",
+    "definition_vi": "Thần thứ 4 trong vòng 12 thần trực ngày và giờ, thuộc nhóm hắc đạo. Tên có nghĩa là “Chim sẻ đỏ (chim đỏ phương Nam)”.",
+    "definition_en": "Spirit 4 of the twelve that govern days and hours in turn, one of the inauspicious (hắc đạo) spirits. The name means “Vermilion Bird”.",
+    "related": [
+      "ngay-hac-dao",
+      "gio-hoang-dao"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "than-kim-quy",
+    "vi": "Kim Quỹ",
+    "han": "金匱",
+    "en": "Kim Quỹ (Golden Coffer)",
+    "zh": "金匮",
+    "ko": "금궤",
+    "definition_vi": "Thần thứ 5 trong vòng 12 thần trực ngày và giờ, thuộc nhóm hoàng đạo. Tên có nghĩa là “Hòm vàng”.",
+    "definition_en": "Spirit 5 of the twelve that govern days and hours in turn, one of the auspicious (hoàng đạo) spirits. The name means “Golden Coffer”.",
+    "related": [
+      "ngay-hoang-dao",
+      "gio-hoang-dao"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "than-kim-duong",
+    "vi": "Kim Đường",
+    "han": "金堂",
+    "en": "Kim Đường (Golden Hall)",
+    "zh": "宝光",
+    "ko": "보광",
+    "definition_vi": "Thần thứ 6 trong vòng 12 thần trực ngày và giờ, thuộc nhóm hoàng đạo. Tên có nghĩa là “Nhà vàng”. Lịch Trung Quốc thường ghi thần này là Bảo Quang (寶光).",
+    "definition_en": "Spirit 6 of the twelve that govern days and hours in turn, one of the auspicious (hoàng đạo) spirits. The name means “Golden Hall”. Chinese almanacs usually call this spirit Bảo Quang (寶光, “precious light”).",
+    "related": [
+      "ngay-hoang-dao",
+      "gio-hoang-dao"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "than-bach-ho",
+    "vi": "Bạch Hổ",
+    "han": "白虎",
+    "en": "Bạch Hổ (White Tiger)",
+    "zh": "白虎",
+    "ko": "백호",
+    "definition_vi": "Thần thứ 7 trong vòng 12 thần trực ngày và giờ, thuộc nhóm hắc đạo. Tên có nghĩa là “Hổ trắng”.",
+    "definition_en": "Spirit 7 of the twelve that govern days and hours in turn, one of the inauspicious (hắc đạo) spirits. The name means “White Tiger”.",
+    "related": [
+      "ngay-hac-dao",
+      "gio-hoang-dao"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "than-ngoc-duong",
+    "vi": "Ngọc Đường",
+    "han": "玉堂",
+    "en": "Ngọc Đường (Jade Hall)",
+    "zh": "玉堂",
+    "ko": "옥당",
+    "definition_vi": "Thần thứ 8 trong vòng 12 thần trực ngày và giờ, thuộc nhóm hoàng đạo. Tên có nghĩa là “Nhà ngọc”.",
+    "definition_en": "Spirit 8 of the twelve that govern days and hours in turn, one of the auspicious (hoàng đạo) spirits. The name means “Jade Hall”.",
+    "related": [
+      "ngay-hoang-dao",
+      "gio-hoang-dao"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "than-thien-lao",
+    "vi": "Thiên Lao",
+    "han": "天牢",
+    "en": "Thiên Lao (Heavenly Prison)",
+    "zh": "天牢",
+    "ko": "천뢰",
+    "definition_vi": "Thần thứ 9 trong vòng 12 thần trực ngày và giờ, thuộc nhóm hắc đạo. Tên có nghĩa là “Ngục trời”.",
+    "definition_en": "Spirit 9 of the twelve that govern days and hours in turn, one of the inauspicious (hắc đạo) spirits. The name means “Heavenly Prison”.",
+    "related": [
+      "ngay-hac-dao",
+      "gio-hoang-dao"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "than-huyen-vu",
+    "vi": "Huyền Vũ",
+    "han": "玄武",
+    "en": "Huyền Vũ (Black Tortoise)",
+    "zh": "玄武",
+    "ko": "현무",
+    "definition_vi": "Thần thứ 10 trong vòng 12 thần trực ngày và giờ, thuộc nhóm hắc đạo. Tên có nghĩa là “Rùa đen (linh vật phương Bắc)”.",
+    "definition_en": "Spirit 10 of the twelve that govern days and hours in turn, one of the inauspicious (hắc đạo) spirits. The name means “Black Tortoise”.",
+    "related": [
+      "ngay-hac-dao",
+      "gio-hoang-dao"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "than-tu-menh",
+    "vi": "Tư Mệnh",
+    "han": "司命",
+    "en": "Tư Mệnh (Life Keeper)",
+    "zh": "司命",
+    "ko": "사명",
+    "definition_vi": "Thần thứ 11 trong vòng 12 thần trực ngày và giờ, thuộc nhóm hoàng đạo. Tên có nghĩa là “Người giữ mệnh”.",
+    "definition_en": "Spirit 11 of the twelve that govern days and hours in turn, one of the auspicious (hoàng đạo) spirits. The name means “Life Keeper”.",
+    "related": [
+      "ngay-hoang-dao",
+      "gio-hoang-dao"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "than-cau-tran",
+    "vi": "Câu Trận",
+    "han": "勾陳",
+    "en": "Câu Trận (Hooked Array)",
+    "zh": "勾陈",
+    "ko": "구진",
+    "definition_vi": "Thần thứ 12 trong vòng 12 thần trực ngày và giờ, thuộc nhóm hắc đạo. Tên có nghĩa là “Trận câu (tên một chòm sao)”.",
+    "definition_en": "Spirit 12 of the twelve that govern days and hours in turn, one of the inauspicious (hắc đạo) spirits. The name means “Hooked Array”.",
+    "related": [
+      "ngay-hac-dao",
+      "gio-hoang-dao"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "thap-nhi-truc",
+    "vi": "thập nhị trực",
+    "han": "十二直",
+    "en": "twelve day officers (trực)",
+    "zh": "建除十二值",
+    "ko": "건제십이신",
+    "definition_vi": "Vòng 12 “trực” gán lần lượt cho các ngày, từ Kiến đến Bế, theo vị trí của chuôi sao Bắc Đẩu và tiết khí. Lịch in trực của mỗi ngày bên cạnh can chi; người xem ngày dùng nó như một yếu tố tham khảo.",
+    "definition_en": "A cycle of twelve “officers”, from Kiến (Establish) to Bế (Close), assigned to days in turn according to the handle of the Big Dipper and the solar terms. Almanacs print each day's officer beside its stem and branch, and date-selection practice uses it as one factor.",
+    "related": [
+      "truc-kien",
+      "chon-ngay",
+      "tiet-khi"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "truc-kien",
+    "vi": "trực Kiến",
+    "han": "建",
+    "en": "Kiến (Establish), day officer 1",
+    "zh": "建",
+    "ko": "건",
+    "definition_vi": "Trực thứ 1 trong thập nhị trực; chữ 建 nghĩa là dựng, lập.",
+    "definition_en": "The 1st of the twelve day officers; the character 建 means “establish”.",
+    "related": [
+      "thap-nhi-truc",
+      "truc-be",
+      "truc-tru"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "truc-tru",
+    "vi": "trực Trừ",
+    "han": "除",
+    "en": "Trừ (Remove), day officer 2",
+    "zh": "除",
+    "ko": "제",
+    "definition_vi": "Trực thứ 2 trong thập nhị trực; chữ 除 nghĩa là bỏ đi, trừ bỏ.",
+    "definition_en": "The 2nd of the twelve day officers; the character 除 means “remove”.",
+    "related": [
+      "thap-nhi-truc",
+      "truc-kien",
+      "truc-man"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "truc-man",
+    "vi": "trực Mãn",
+    "han": "滿",
+    "en": "Mãn (Full), day officer 3",
+    "zh": "满",
+    "ko": "만",
+    "definition_vi": "Trực thứ 3 trong thập nhị trực; chữ 滿 nghĩa là đầy.",
+    "definition_en": "The 3rd of the twelve day officers; the character 滿 means “full”.",
+    "related": [
+      "thap-nhi-truc",
+      "truc-tru",
+      "truc-binh"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "truc-binh",
+    "vi": "trực Bình",
+    "han": "平",
+    "en": "Bình (Balance), day officer 4",
+    "zh": "平",
+    "ko": "평",
+    "definition_vi": "Trực thứ 4 trong thập nhị trực; chữ 平 nghĩa là bằng phẳng.",
+    "definition_en": "The 4th of the twelve day officers; the character 平 means “balance”.",
+    "related": [
+      "thap-nhi-truc",
+      "truc-man",
+      "truc-dinh"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "truc-dinh",
+    "vi": "trực Định",
+    "han": "定",
+    "en": "Định (Settle), day officer 5",
+    "zh": "定",
+    "ko": "정",
+    "definition_vi": "Trực thứ 5 trong thập nhị trực; chữ 定 nghĩa là yên định.",
+    "definition_en": "The 5th of the twelve day officers; the character 定 means “settle”.",
+    "related": [
+      "thap-nhi-truc",
+      "truc-binh",
+      "truc-chap"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "truc-chap",
+    "vi": "trực Chấp",
+    "han": "執",
+    "en": "Chấp (Hold), day officer 6",
+    "zh": "执",
+    "ko": "집",
+    "definition_vi": "Trực thứ 6 trong thập nhị trực; chữ 執 nghĩa là nắm giữ.",
+    "definition_en": "The 6th of the twelve day officers; the character 執 means “hold”.",
+    "related": [
+      "thap-nhi-truc",
+      "truc-dinh",
+      "truc-pha"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "truc-pha",
+    "vi": "trực Phá",
+    "han": "破",
+    "en": "Phá (Break), day officer 7",
+    "zh": "破",
+    "ko": "파",
+    "definition_vi": "Trực thứ 7 trong thập nhị trực; chữ 破 nghĩa là phá vỡ.",
+    "definition_en": "The 7th of the twelve day officers; the character 破 means “break”.",
+    "related": [
+      "thap-nhi-truc",
+      "truc-chap",
+      "truc-nguy"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "truc-nguy",
+    "vi": "trực Nguy",
+    "han": "危",
+    "en": "Nguy (Danger), day officer 8",
+    "zh": "危",
+    "ko": "위",
+    "definition_vi": "Trực thứ 8 trong thập nhị trực; chữ 危 nghĩa là nguy hiểm, cao chênh vênh.",
+    "definition_en": "The 8th of the twelve day officers; the character 危 means “danger”.",
+    "related": [
+      "thap-nhi-truc",
+      "truc-pha",
+      "truc-thanh"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "truc-thanh",
+    "vi": "trực Thành",
+    "han": "成",
+    "en": "Thành (Success), day officer 9",
+    "zh": "成",
+    "ko": "성",
+    "definition_vi": "Trực thứ 9 trong thập nhị trực; chữ 成 nghĩa là nên, thành tựu.",
+    "definition_en": "The 9th of the twelve day officers; the character 成 means “success”.",
+    "related": [
+      "thap-nhi-truc",
+      "truc-nguy",
+      "truc-thu"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "truc-thu",
+    "vi": "trực Thu",
+    "han": "收",
+    "en": "Thu (Receive), day officer 10",
+    "zh": "收",
+    "ko": "수",
+    "definition_vi": "Trực thứ 10 trong thập nhị trực; chữ 收 nghĩa là thu về.",
+    "definition_en": "The 10th of the twelve day officers; the character 收 means “receive”.",
+    "related": [
+      "thap-nhi-truc",
+      "truc-thanh",
+      "truc-khai"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "truc-khai",
+    "vi": "trực Khai",
+    "han": "開",
+    "en": "Khai (Open), day officer 11",
+    "zh": "开",
+    "ko": "개",
+    "definition_vi": "Trực thứ 11 trong thập nhị trực; chữ 開 nghĩa là mở.",
+    "definition_en": "The 11th of the twelve day officers; the character 開 means “open”.",
+    "related": [
+      "thap-nhi-truc",
+      "truc-thu",
+      "truc-be"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "truc-be",
+    "vi": "trực Bế",
+    "han": "閉",
+    "en": "Bế (Close), day officer 12",
+    "zh": "闭",
+    "ko": "폐",
+    "definition_vi": "Trực thứ 12 trong thập nhị trực; chữ 閉 nghĩa là đóng.",
+    "definition_en": "The 12th of the twelve day officers; the character 閉 means “close”.",
+    "related": [
+      "thap-nhi-truc",
+      "truc-khai",
+      "truc-kien"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "nhi-thap-bat-tu",
+    "vi": "nhị thập bát tú",
+    "han": "二十八宿",
+    "en": "twenty-eight lunar mansions",
+    "zh": "二十八宿",
+    "ko": "28수",
+    "definition_vi": "Hai mươi tám chòm sao dọc đường đi của Mặt Trăng, từ Giác đến Chẩn, được thiên văn cổ dùng làm mốc. Lịch truyền thống gán lần lượt một tú cho mỗi ngày.",
+    "definition_en": "Twenty-eight asterisms along the moon's path, from Giác to Chẩn, used as reference points in early Chinese astronomy. Traditional almanacs assign one mansion to each day in turn.",
+    "related": [
+      "thap-nhi-truc",
+      "chon-ngay"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  }
+]

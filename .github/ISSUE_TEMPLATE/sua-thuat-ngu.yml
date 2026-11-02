@@ -1,0 +1,41 @@
+name: Sửa thuật ngữ / Fix a term
+description: Báo lỗi hoặc đề xuất sửa một mục trong từ điển. Report an error or suggest a fix for an entry.
+title: "[Sửa thuật ngữ] "
+labels: ["sua-thuat-ngu"]
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Mã mục (id) / Entry id
+      description: Ví dụ / e.g. tet-nguyen-dan
+    validations:
+      required: true
+  - type: dropdown
+    id: field
+    attributes:
+      label: Trường cần sửa / Field
+      multiple: true
+      options: [vi, han, en, zh, ko, definition_vi, definition_en, related, sources]
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Nội dung hiện tại / Current text
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Đề xuất / Proposed text
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Lý do và nguồn / Reason and sources
+      description: Nêu nguồn bạn đã đọc (URL, sách). Please cite sources you have read.
+  - type: checkboxes
+    id: native
+    attributes:
+      label: Người bản ngữ / Native speaker
+      options:
+        - label: Tôi là người bản ngữ của ngôn ngữ đang sửa (zh/ko). I am a native speaker of the language I am correcting.

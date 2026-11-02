@@ -1,0 +1,6 @@
+[
+  { "id": "lich", "vi": "Lịch và thời gian", "en": "Calendar and time", "zh": "历法与时间", "ko": "역법과 시간" },
+  { "id": "le-tet", "vi": "Lễ tết", "en": "Festivals", "zh": "节日", "ko": "명절" },
+  { "id": "gia-dinh", "vi": "Tục lệ gia đình", "en": "Family customs", "zh": "家庭习俗", "ko": "가정 풍습" },
+  { "id": "tin-nguong", "vi": "Phong thủy và tín ngưỡng dân gian", "en": "Feng shui and folk belief", "zh": "风水与民间信仰", "ko": "풍수와 민간 신앙" }
+]

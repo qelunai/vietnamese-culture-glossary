@@ -1,0 +1,583 @@
+[
+  {
+    "id": "tho-cung-to-tien",
+    "vi": "thờ cúng tổ tiên",
+    "han": "",
+    "en": "ancestor veneration",
+    "zh": "祭祖",
+    "ko": "조상 숭배",
+    "definition_vi": "Tập quán phổ biến trong các gia đình Việt: lập bàn thờ, thắp hương ngày rằm, mùng một, ngày giỗ và ngày Tết để tưởng nhớ người đã khuất. Nhiều người coi đây là cách thể hiện lòng hiếu thảo hơn là một tôn giáo.",
+    "definition_en": "A widespread practice in Vietnamese families: keeping an altar and burning incense on the full and new moon, death anniversaries and Tết to remember the deceased. Many see it as an expression of filial respect rather than a religion.",
+    "related": [
+      "ban-tho-gia-tien",
+      "gia-tien",
+      "gio",
+      "cung-ram-mung-mot"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "gia-tien",
+    "vi": "gia tiên",
+    "han": "家先",
+    "en": "family ancestors",
+    "zh": "祖先",
+    "ko": "조상",
+    "definition_vi": "Tổ tiên của một gia đình, những người đã khuất được thờ trên bàn thờ trong nhà.",
+    "definition_en": "The ancestors of a family, the deceased who are honoured at the home altar.",
+    "related": [
+      "ban-tho-gia-tien",
+      "tho-cung-to-tien"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "ban-tho-gia-tien",
+    "vi": "bàn thờ gia tiên",
+    "han": "",
+    "en": "ancestral altar",
+    "zh": "祖先神台",
+    "ko": "조상 제단",
+    "definition_vi": "Bàn thờ đặt ở vị trí trang trọng trong nhà, có bát hương, ảnh hoặc bài vị người đã khuất, đèn, hoa quả. Cách bài trí khác nhau theo vùng và theo gia đình.",
+    "definition_en": "An altar in a place of honour in the home, with an incense bowl, photos or tablets of the deceased, lamps and fruit. Its arrangement differs by region and family.",
+    "related": [
+      "gia-tien",
+      "bat-huong",
+      "tho-cung-to-tien"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "bat-huong",
+    "vi": "bát hương",
+    "han": "",
+    "en": "incense bowl",
+    "zh": "香炉",
+    "ko": "향로",
+    "definition_vi": "Bát hoặc lư đựng tro, cát để cắm hương trên bàn thờ; ở miền Nam thường gọi là lư hương. Nhiều gia đình kiêng di chuyển hay lau dọn bát hương tùy tiện, thường chỉ “bao sái” vào cuối năm.",
+    "definition_en": "The bowl of ash or sand that holds incense sticks on an altar; in the south often called lư hương. Many families avoid moving or cleaning it casually and tidy it only at year end.",
+    "related": [
+      "ban-tho-gia-tien",
+      "thap-huong"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "thap-huong",
+    "vi": "thắp hương",
+    "han": "",
+    "en": "burning incense",
+    "zh": "上香",
+    "ko": "분향",
+    "definition_vi": "Việc đốt nén hương trên bàn thờ hoặc ở đền chùa để tưởng niệm, cầu khấn; miền Nam thường nói “thắp nhang”. Số nén hương thường là số lẻ.",
+    "definition_en": "Lighting incense sticks at an altar or temple to remember or pray; in the south usually “thắp nhang”. An odd number of sticks is usual.",
+    "related": [
+      "bat-huong",
+      "tho-cung-to-tien"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "cung-ram-mung-mot",
+    "vi": "cúng rằm, mùng một",
+    "han": "",
+    "en": "offerings on the 1st and 15th of the lunar month",
+    "zh": "初一十五祭拜",
+    "ko": "초하루·보름 제사",
+    "definition_vi": "Lễ cúng đơn giản tại nhà vào ngày mùng một và ngày rằm mỗi tháng âm lịch, thường gồm hương, hoa, nước, trái cây dâng gia tiên và thần linh.",
+    "definition_en": "A simple home offering on the first and fifteenth day of each lunar month, usually incense, flowers, water and fruit for the ancestors and household spirits.",
+    "related": [
+      "mung-mot",
+      "ram",
+      "tho-cung-to-tien"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "gio",
+    "vi": "giỗ",
+    "han": "",
+    "en": "death anniversary",
+    "zh": "忌日",
+    "ko": "기일",
+    "definition_vi": "Ngày tưởng nhớ người thân đã mất, thường tính theo ngày mất âm lịch. Con cháu tụ họp, cúng cơm và thắp hương; một số gia đình Công giáo làm giỗ theo dương lịch.",
+    "definition_en": "The day of remembrance for a deceased relative, usually kept on the lunar date of death. Descendants gather, offer a meal and burn incense; some Catholic families keep it by the solar calendar.",
+    "related": [
+      "gio-dau",
+      "tien-thuong",
+      "tho-cung-to-tien",
+      "am-lich"
+    ],
+    "sources": [
+      "https://vi.wikipedia.org/wiki/Gi%E1%BB%97"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "tien-thuong",
+    "vi": "tiên thường",
+    "han": "先嘗",
+    "en": "eve of a death anniversary",
+    "zh": "先尝",
+    "ko": "기일 전날 제사",
+    "definition_vi": "Lễ cúng vào hôm trước ngày giỗ chính, báo với gia tiên và thần linh về ngày giỗ hôm sau.",
+    "definition_en": "The offering made on the day before a death anniversary, announcing the anniversary to the ancestors and household spirits.",
+    "related": [
+      "gio",
+      "chinh-gio"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "chinh-gio",
+    "vi": "chính giỗ",
+    "han": "",
+    "en": "death anniversary day",
+    "zh": "正忌日",
+    "ko": "기일 당일",
+    "definition_vi": "Ngày giỗ chính, đúng ngày mất theo âm lịch, khi gia đình làm mâm cỗ cúng và mời họ hàng.",
+    "definition_en": "The anniversary day itself, the lunar date of death, when the family offers a meal and invites relatives.",
+    "related": [
+      "gio",
+      "tien-thuong",
+      "mam-co"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "gio-dau",
+    "vi": "giỗ đầu",
+    "han": "",
+    "en": "first death anniversary",
+    "zh": "一周年忌",
+    "ko": "첫 기일",
+    "definition_vi": "Giỗ tròn một năm sau ngày mất, còn gọi tiểu tường, thường làm trang trọng hơn các lần giỗ sau.",
+    "definition_en": "The anniversary one year after a death, also called tiểu tường; it is usually marked more formally than later anniversaries.",
+    "related": [
+      "gio",
+      "tieu-tuong",
+      "dai-tuong"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "tieu-tuong",
+    "vi": "tiểu tường",
+    "han": "小祥",
+    "en": "first-year memorial",
+    "zh": "小祥",
+    "ko": "소상",
+    "definition_vi": "Tên Hán Việt của lễ giỗ đầu, tròn một năm sau ngày mất.",
+    "definition_en": "The Sino-Vietnamese name for the memorial held one year after a death.",
+    "related": [
+      "gio-dau",
+      "dai-tuong"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "dai-tuong",
+    "vi": "đại tường",
+    "han": "大祥",
+    "en": "second-year memorial (end of mourning)",
+    "zh": "大祥",
+    "ko": "대상",
+    "definition_vi": "Lễ giỗ tròn hai năm sau ngày mất; theo tập quán cũ, sau lễ này (hoặc sau lễ đàm tế) gia đình hết tang.",
+    "definition_en": "The memorial two years after a death; by older custom the family's formal mourning ends after it (or after a further rite).",
+    "related": [
+      "tieu-tuong",
+      "de-tang"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "de-tang",
+    "vi": "để tang",
+    "han": "",
+    "en": "mourning",
+    "zh": "守孝",
+    "ko": "상복을 입다",
+    "definition_vi": "Thời gian con cháu tỏ lòng thương tiếc người đã mất, xưa có quy định về khăn áo và kiêng tổ chức việc vui; mức độ và thời gian khác nhau tùy quan hệ và gia đình.",
+    "definition_en": "The period in which descendants show grief for the deceased; traditionally it involved mourning dress and avoiding celebrations, with length and rules depending on the relationship and the family.",
+    "related": [
+      "dam-tang",
+      "dai-tuong"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "dam-tang",
+    "vi": "đám tang",
+    "han": "",
+    "en": "funeral",
+    "zh": "丧礼",
+    "ko": "장례",
+    "definition_vi": "Các nghi lễ từ khi một người mất đến khi an táng, gồm khâm liệm, phúng viếng, đưa tang. Phong tục khác nhau theo vùng, tôn giáo và gia đình.",
+    "definition_en": "The rites from death to burial, including shrouding, condolence visits and the funeral procession. Customs vary by region, religion and family.",
+    "related": [
+      "de-tang",
+      "cai-tang"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "cai-tang",
+    "vi": "cải táng",
+    "han": "改葬",
+    "en": "reburial (secondary burial)",
+    "zh": "二次葬",
+    "ko": "개장",
+    "definition_vi": "Tục bốc mộ sau vài năm, rửa hài cốt và chuyển sang tiểu sành để chôn lại; phổ biến ở miền Bắc, nay ít dần ở đô thị.",
+    "definition_en": "The custom of exhuming remains after several years, washing the bones and reburying them in a small ceramic casket; common in the north, less so in cities today.",
+    "related": [
+      "dam-tang",
+      "tao-mo"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "tao-mo",
+    "vi": "tảo mộ",
+    "han": "掃墓",
+    "en": "tending ancestral graves",
+    "zh": "扫墓",
+    "ko": "성묘",
+    "definition_vi": "Việc đi thăm, dọn cỏ, sửa sang mộ người thân, thường vào tiết Thanh minh và những ngày cuối tháng Chạp trước Tết.",
+    "definition_en": "Visiting, weeding and repairing family graves, usually around the Clear and Bright term and in the last days of the year before Tết.",
+    "related": [
+      "tet-thanh-minh",
+      "thang-chap"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "mam-ngu-qua",
+    "vi": "mâm ngũ quả",
+    "han": "",
+    "en": "five-fruit tray",
+    "zh": "五果盘",
+    "ko": "오과 쟁반",
+    "definition_vi": "Mâm trái cây bày trên bàn thờ ngày Tết, thường năm loại, mỗi vùng chọn loại quả khác nhau và có cách giải nghĩa theo tên quả.",
+    "definition_en": "The tray of fruit, usually five kinds, placed on the altar at Tết; each region chooses different fruit, often for the wishes their names suggest.",
+    "related": [
+      "tet-nguyen-dan",
+      "ban-tho-gia-tien"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/T%E1%BA%BFt"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "mam-co",
+    "vi": "mâm cỗ",
+    "han": "",
+    "en": "offering feast",
+    "zh": "供桌饭菜",
+    "ko": "제사상",
+    "definition_vi": "Mâm thức ăn nấu đầy đủ dâng lên bàn thờ trong ngày giỗ, ngày Tết, rồi gia đình cùng thụ lộc sau lễ.",
+    "definition_en": "A full cooked meal set on the altar for a death anniversary or Tết, which the family then shares after the rite.",
+    "related": [
+      "chinh-gio",
+      "tet-nguyen-dan"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "trau-cau",
+    "vi": "trầu cau",
+    "han": "",
+    "en": "betel and areca",
+    "zh": "蒌叶与槟榔",
+    "ko": "구장잎과 빈랑",
+    "definition_vi": "Lá trầu và quả cau, xưa dùng để ăn và mời khách; nay vẫn có trong lễ cưới hỏi và nhiều mâm cúng như một biểu tượng của lễ nghĩa.",
+    "definition_en": "Betel leaf and areca nut, once chewed and offered to guests; they still appear in wedding rites and many offerings as a symbol of courtesy.",
+    "related": [
+      "an-hoi",
+      "mam-co"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "vang-ma",
+    "vi": "vàng mã",
+    "han": "",
+    "en": "votive paper offerings",
+    "zh": "纸钱",
+    "ko": "지전",
+    "definition_vi": "Tiền giấy, quần áo và đồ vật bằng giấy dùng trong lễ cúng rồi đốt đi, theo tín ngưỡng dân gian là gửi cho người đã khuất. Các cơ quan văn hóa và Phật giáo thường khuyến khích hạn chế đốt.",
+    "definition_en": "Paper money, clothes and objects used in offerings and then burned, in folk belief to send them to the dead. Cultural bodies and Buddhist organisations often encourage burning less.",
+    "related": [
+      "hoa-vang",
+      "ong-cong-ong-tao"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "hoa-vang",
+    "vi": "hóa vàng",
+    "han": "",
+    "en": "burning votive paper",
+    "zh": "焚化纸钱",
+    "ko": "지전 태우기",
+    "definition_vi": "Việc đốt vàng mã sau lễ cúng; riêng dịp Tết, lễ hóa vàng (thường mùng 3 đến mùng 7) đánh dấu việc tiễn tổ tiên sau những ngày Tết.",
+    "definition_en": "Burning votive paper after an offering; at Tết, the hóa vàng rite (often between the 3rd and 7th day) marks seeing the ancestors off after the holiday.",
+    "related": [
+      "vang-ma",
+      "tet-nguyen-dan"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "van-khan",
+    "vi": "văn khấn",
+    "han": "",
+    "en": "prayer text",
+    "zh": "祷文",
+    "ko": "기도문",
+    "definition_vi": "Bài khấn đọc trước bàn thờ trong lễ cúng, nêu ngày tháng, người cúng và lời mời hoặc lời cầu. Có nhiều sách tổng hợp; nhiều người khấn bằng lời của mình. (Từ điển này không đăng nội dung văn khấn.)",
+    "definition_en": "The text read before an altar during an offering, stating the date, who is making it and the invitation or request. Many collections exist, and many people simply use their own words. (This glossary does not reproduce prayer texts.)",
+    "related": [
+      "tho-cung-to-tien",
+      "cung-ram-mung-mot"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "cung-co-hon",
+    "vi": "cúng cô hồn",
+    "han": "",
+    "en": "offerings for wandering souls",
+    "zh": "施孤",
+    "ko": "무주고혼 제사",
+    "definition_vi": "Lễ cúng ngoài trời cho các vong không có người thờ cúng, thường vào tháng Bảy âm lịch, với cháo, muối gạo, bánh kẹo; sau lễ có tục rải gạo muối hoặc để trẻ em “giật cô hồn”.",
+    "definition_en": "An outdoor offering for souls with no one to worship them, mainly in the seventh lunar month, with rice gruel, rice and salt and sweets; afterwards rice and salt may be scattered or children may grab the treats.",
+    "related": [
+      "tet-trung-nguyen",
+      "vu-lan"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "nhap-trach",
+    "vi": "nhập trạch",
+    "han": "入宅",
+    "en": "moving into a new home",
+    "zh": "入宅",
+    "ko": "입택",
+    "definition_vi": "Lễ về nhà mới, thường chọn ngày giờ và làm lễ cúng báo với thổ thần, gia tiên trước khi dọn đồ vào ở.",
+    "definition_en": "The rite of moving into a new home, often on a chosen day and hour, with an offering to inform the local earth spirit and the ancestors before moving in.",
+    "related": [
+      "dong-tho",
+      "chon-ngay",
+      "tho-dia"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "dong-tho",
+    "vi": "động thổ",
+    "han": "動土",
+    "en": "groundbreaking",
+    "zh": "动土",
+    "ko": "착공",
+    "definition_vi": "Lễ trước khi bắt đầu đào móng xây nhà hay công trình, khấn xin thổ thần cho phép khởi công; thường chọn ngày giờ.",
+    "definition_en": "The rite before digging foundations for a house or building, asking the local earth spirit for permission to start; a day and hour are often chosen for it.",
+    "related": [
+      "nhap-trach",
+      "tho-dia",
+      "chon-ngay"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "khai-truong",
+    "vi": "khai trương",
+    "han": "開張",
+    "en": "business opening",
+    "zh": "开业",
+    "ko": "개업",
+    "definition_vi": "Lễ mở cửa hàng hay công ty lần đầu, hoặc buổi mở hàng đầu năm sau Tết, thường kèm lễ cúng và chọn ngày giờ.",
+    "definition_en": "The opening of a new shop or business, or the first opening after Tết, usually with an offering and a chosen day and hour.",
+    "related": [
+      "chon-ngay",
+      "than-tai"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "day-thang",
+    "vi": "đầy tháng",
+    "han": "",
+    "en": "one-month celebration",
+    "zh": "满月",
+    "ko": "생후 한 달 잔치",
+    "definition_vi": "Lễ khi em bé tròn một tháng tuổi (âm lịch), gia đình cúng tạ “mụ bà” theo tín ngưỡng dân gian và mời họ hàng.",
+    "definition_en": "The celebration when a baby turns one (lunar) month old, with an offering of thanks to the folk midwife spirits and a family gathering.",
+    "related": [
+      "thoi-noi"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "thoi-noi",
+    "vi": "thôi nôi",
+    "han": "",
+    "en": "first birthday",
+    "zh": "周岁",
+    "ko": "돌",
+    "definition_vi": "Lễ khi trẻ tròn một tuổi, thường có tục “bốc đồ chơi” để vui đoán sở thích của trẻ.",
+    "definition_en": "The celebration of a child's first birthday, often with a playful object-picking game said to hint at the child's future interests.",
+    "related": [
+      "day-thang"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "an-hoi",
+    "vi": "ăn hỏi",
+    "han": "",
+    "en": "betrothal ceremony",
+    "zh": "订婚礼",
+    "ko": "약혼식",
+    "definition_vi": "Lễ nhà trai mang sính lễ (trầu cau, bánh, trái cây…) đến nhà gái để chính thức hỏi cưới; miền Nam gọi là lễ đám hỏi.",
+    "definition_en": "The ceremony in which the groom's family brings gifts (betel and areca, cakes, fruit…) to the bride's family to formally ask for her hand; in the south called đám hỏi.",
+    "related": [
+      "trau-cau",
+      "xem-tuoi"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "mung-tho",
+    "vi": "mừng thọ",
+    "han": "",
+    "en": "longevity celebration",
+    "zh": "祝寿",
+    "ko": "장수 잔치",
+    "definition_vi": "Lễ con cháu tổ chức chúc thọ ông bà, cha mẹ ở các tuổi chẵn như 60, 70, 80, thường vào dịp đầu năm.",
+    "definition_en": "A celebration held by descendants for grandparents or parents at round ages such as 60, 70 or 80, often early in the year.",
+    "related": [
+      "tuoi-mu"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  }
+]

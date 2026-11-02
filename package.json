@@ -1,0 +1,17 @@
+{
+  "name": "vietnamese-culture-glossary",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Glossary of Vietnamese lunar calendar and customs terms in Vietnamese, English, Chinese and Korean.",
+  "license": "SEE LICENSE IN LICENSE",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test test/",
+    "validate": "node scripts/check.mjs",
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs && node --test test/"
+  }
+}

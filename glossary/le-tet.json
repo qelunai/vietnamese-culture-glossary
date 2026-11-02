@@ -1,0 +1,457 @@
+[
+  {
+    "id": "tet-nguyen-dan",
+    "vi": "Tết Nguyên đán",
+    "han": "節元旦",
+    "en": "Lunar New Year (Tết)",
+    "zh": "春节",
+    "ko": "설날",
+    "definition_vi": "Dịp lễ lớn nhất trong năm, mừng năm mới âm lịch bắt đầu từ mùng một tháng Giêng, thường gọi tắt là Tết. Các phong tục tiêu biểu gồm dọn dẹp nhà cửa, bày mâm ngũ quả, gói bánh chưng, cúng tổ tiên, xông đất và chúc Tết.",
+    "definition_en": "The most important holiday of the year, marking the lunar new year from the first day of the first month, usually called simply Tết. Typical customs include cleaning the home, setting out the five-fruit tray, wrapping bánh chưng, ancestor offerings, first-footing and New Year greetings.",
+    "related": [
+      "giao-thua",
+      "tat-nien",
+      "ong-cong-ong-tao",
+      "xong-dat",
+      "li-xi",
+      "mam-ngu-qua",
+      "banh-chung",
+      "thang-gieng"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/T%E1%BA%BFt"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "ong-cong-ong-tao",
+    "vi": "ông Công ông Táo",
+    "han": "",
+    "en": "Kitchen Gods day",
+    "zh": "送灶君",
+    "ko": "조왕신 보내는 날",
+    "definition_vi": "Ngày 23 tháng Chạp, khi theo tín ngưỡng dân gian Táo Quân lên trời báo cáo việc trong nhà suốt năm. Các gia đình cúng tiễn, thường kèm cá chép mà tục truyền là phương tiện để Táo Quân cưỡi về trời.",
+    "definition_en": "The 23rd day of the twelfth lunar month, when in folk belief the Kitchen Gods ascend to heaven to report on the household's year. Families make a send-off offering, often including live carp, said in folk tradition to carry the gods up.",
+    "related": [
+      "tao-quan",
+      "thang-chap",
+      "tet-nguyen-dan"
+    ],
+    "sources": [
+      "https://vi.wikipedia.org/wiki/T%C3%A1o_Qu%C3%A2n"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "tat-nien",
+    "vi": "tất niên",
+    "han": "畢年",
+    "en": "year-end offering",
+    "zh": "年终祭祀",
+    "ko": "연말 제사",
+    "definition_vi": "Bữa cúng và bữa cơm sum họp cuối năm, thường vào chiều 30 (hoặc 29) tháng Chạp, để mời tổ tiên về ăn Tết. Từ này cũng dùng cho các buổi liên hoan cuối năm của cơ quan.",
+    "definition_en": "The year-end offering and family meal, usually on the afternoon of the last day of the twelfth month, inviting the ancestors home for Tết. The word is also used for year-end office parties.",
+    "related": [
+      "giao-thua",
+      "tet-nguyen-dan",
+      "gia-tien"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "giao-thua",
+    "vi": "giao thừa",
+    "han": "",
+    "en": "New Year's Eve",
+    "zh": "除夕",
+    "ko": "섣달그믐",
+    "definition_vi": "Thời khắc chuyển từ năm cũ sang năm mới âm lịch, lúc nửa đêm cuối tháng Chạp. Nhiều gia đình làm lễ cúng ngoài trời và trong nhà, rồi đón năm mới cùng nhau.",
+    "definition_en": "The moment the old lunar year turns into the new one, at midnight at the end of the twelfth month. Many families make offerings outdoors and at the home altar and see in the new year together.",
+    "related": [
+      "tat-nien",
+      "tet-nguyen-dan",
+      "thang-thieu"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/T%E1%BA%BFt"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "xong-dat",
+    "vi": "xông đất",
+    "han": "",
+    "en": "first-footing (first visitor of the year)",
+    "zh": "新年首访",
+    "ko": "새해 첫 방문객",
+    "definition_vi": "Tục coi trọng người đầu tiên bước vào nhà sau giao thừa, vì dân gian cho rằng người đó ảnh hưởng tới vận của gia đình cả năm. Nhiều nhà chủ động mời người hợp tuổi đến xông đất.",
+    "definition_en": "The custom of giving weight to the first person to enter a home after midnight on New Year's Eve, whom folk belief links to the household's fortunes for the year. Many families invite someone of a compatible birth year to be the first visitor.",
+    "related": [
+      "tet-nguyen-dan",
+      "xem-tuoi"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/T%E1%BA%BFt"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "li-xi",
+    "vi": "lì xì",
+    "han": "",
+    "en": "lucky money",
+    "zh": "压岁钱",
+    "ko": "세뱃돈",
+    "definition_vi": "Tiền mừng tuổi đựng trong phong bao đỏ, người lớn tặng trẻ em và người cao tuổi dịp Tết kèm lời chúc. Miền Bắc thường gọi là “mừng tuổi”, miền Nam gọi “lì xì”.",
+    "definition_en": "Money in a red envelope given with New Year wishes, mostly by adults to children and to the elderly. It is usually called “mừng tuổi” in the north and “lì xì” in the south.",
+    "related": [
+      "chuc-tet",
+      "tet-nguyen-dan"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/T%E1%BA%BFt"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "chuc-tet",
+    "vi": "chúc Tết",
+    "han": "",
+    "en": "New Year greetings",
+    "zh": "拜年",
+    "ko": "세배",
+    "definition_vi": "Việc thăm hỏi họ hàng, thầy cô, bạn bè trong những ngày đầu năm và gửi lời chúc như an khang thịnh vượng, vạn sự như ý.",
+    "definition_en": "Visiting relatives, teachers and friends in the first days of the year and offering wishes such as peace and prosperity, or that all may go as one wishes.",
+    "related": [
+      "li-xi",
+      "tet-nguyen-dan"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "banh-chung",
+    "vi": "bánh chưng",
+    "han": "",
+    "en": "bánh chưng (square sticky rice cake)",
+    "zh": "方粽",
+    "ko": "반쯩",
+    "definition_vi": "Bánh gạo nếp vuông nhân đậu xanh và thịt lợn, gói lá dong và luộc nhiều giờ, là món đặc trưng ngày Tết ở miền Bắc. Truyền thuyết gắn bánh với Lang Liêu thời Hùng Vương; hình vuông tượng trưng cho đất.",
+    "definition_en": "A square cake of glutinous rice filled with mung beans and pork, wrapped in dong leaves and boiled for hours, typical of Tết in the north. Legend links it to Prince Lang Liêu in the Hùng kings' era; the square shape stands for the earth.",
+    "related": [
+      "banh-tet",
+      "tet-nguyen-dan",
+      "gio-to-hung-vuong"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/T%E1%BA%BFt"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "banh-tet",
+    "vi": "bánh tét",
+    "han": "",
+    "en": "bánh tét (cylindrical sticky rice cake)",
+    "zh": "筒粽",
+    "ko": "반뗏",
+    "definition_vi": "Bánh gạo nếp hình trụ dài, gói lá chuối, phổ biến dịp Tết ở miền Trung và miền Nam; nhân và cách gói tương tự bánh chưng.",
+    "definition_en": "A long cylindrical glutinous rice cake wrapped in banana leaves, common at Tết in central and southern Vietnam; its filling is similar to bánh chưng.",
+    "related": [
+      "banh-chung",
+      "tet-nguyen-dan"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "cay-neu",
+    "vi": "cây nêu",
+    "han": "",
+    "en": "Tết pole (cây nêu)",
+    "zh": "幡竿",
+    "ko": "장대",
+    "definition_vi": "Cây tre dựng trước nhà từ cuối tháng Chạp đến hết Tết, ngọn treo các vật trang trí. Theo tín ngưỡng dân gian, cây nêu đánh dấu đất của gia đình và xua đuổi ma quỷ.",
+    "definition_en": "A bamboo pole set up in front of the house from the end of the twelfth month until Tết is over, hung with ornaments at the top. In folk belief it marks the family's ground and wards off evil spirits.",
+    "related": [
+      "tet-nguyen-dan",
+      "cau-doi"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "cau-doi",
+    "vi": "câu đối",
+    "han": "對聯",
+    "en": "couplet",
+    "zh": "对联",
+    "ko": "대련",
+    "definition_vi": "Cặp câu văn đối nhau về ý và lời, viết trên giấy đỏ hoặc gỗ, treo dịp Tết hay ở nơi thờ cúng. Câu đối Tết thường chứa lời chúc năm mới.",
+    "definition_en": "A pair of lines matched in meaning and structure, written on red paper or carved in wood, hung at Tết or in places of worship. Tết couplets usually carry New Year wishes.",
+    "related": [
+      "tet-nguyen-dan",
+      "cay-neu"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "le-chua-dau-nam",
+    "vi": "đi lễ chùa đầu năm",
+    "han": "",
+    "en": "New Year temple visit",
+    "zh": "开春到寺庙参拜",
+    "ko": "새해 절 참배",
+    "definition_vi": "Tục đi chùa, đền trong những ngày đầu năm để thắp hương, cầu bình an. Nhiều nơi kèm tục hái lộc, tức mang về một cành cây non lấy may.",
+    "definition_en": "The custom of visiting pagodas and temples in the first days of the year to burn incense and pray for peace. In many places it goes with “hái lộc”, taking home a budding twig for luck.",
+    "related": [
+      "tet-nguyen-dan",
+      "thap-huong"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "via-than-tai",
+    "vi": "ngày vía Thần Tài",
+    "han": "",
+    "en": "God of Wealth day",
+    "zh": "财神日",
+    "ko": "재신의 날",
+    "definition_vi": "Ngày mùng 10 tháng Giêng, được coi là ngày vía (ngày giáng sinh) của Thần Tài. Nhiều gia đình kinh doanh cúng Thần Tài và có tục mua vàng lấy may vào ngày này.",
+    "definition_en": "The 10th day of the first lunar month, held to be the feast day of the God of Wealth. Many business families make offerings to him, and some buy gold for luck on this day.",
+    "related": [
+      "than-tai",
+      "thang-gieng"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "tet-nguyen-tieu",
+    "vi": "Tết Nguyên tiêu",
+    "han": "元宵",
+    "en": "Lantern Festival",
+    "zh": "元宵节",
+    "ko": "정월대보름",
+    "definition_vi": "Rằm tháng Giêng, đêm trăng tròn đầu tiên của năm mới, còn gọi Tết Thượng nguyên. Nhiều người đi lễ chùa; dân gian có câu “lễ quanh năm không bằng rằm tháng Giêng”.",
+    "definition_en": "The full moon of the first lunar month, the first full moon of the new year, also called Thượng nguyên. Many people visit pagodas; a folk saying holds that this full moon counts as much as a whole year of worship.",
+    "related": [
+      "ram",
+      "tet-trung-nguyen",
+      "tet-ha-nguyen"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "tet-han-thuc",
+    "vi": "Tết Hàn thực",
+    "han": "寒食",
+    "en": "Cold Food Festival",
+    "zh": "寒食节",
+    "ko": "한식",
+    "definition_vi": "Ngày mùng 3 tháng Ba âm lịch; ở Việt Nam các gia đình thường làm bánh trôi, bánh chay để cúng tổ tiên. Tên gọi “ăn đồ lạnh” bắt nguồn từ một tích cổ Trung Hoa về Giới Tử Thôi.",
+    "definition_en": "The 3rd day of the third lunar month; in Vietnam families often make bánh trôi and bánh chay rice dumplings for the ancestors. The name, “cold food”, comes from an old Chinese story about Jie Zitui.",
+    "related": [
+      "tet-thanh-minh",
+      "gia-tien"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cold_Food_Festival"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "tet-thanh-minh",
+    "vi": "Tết Thanh minh",
+    "han": "清明",
+    "en": "Thanh minh (grave-visiting season)",
+    "zh": "清明节",
+    "ko": "청명절",
+    "definition_vi": "Khoảng thời gian quanh tiết Thanh minh (đầu tháng Tư dương lịch) khi nhiều gia đình đi tảo mộ, sửa sang mộ phần và thắp hương cho tổ tiên. Ở Việt Nam đây không phải ngày nghỉ lễ chính thức.",
+    "definition_en": "The period around the Clear and Bright solar term (early April) when many families visit, clean and repair ancestral graves and burn incense. In Vietnam it is not an official public holiday.",
+    "related": [
+      "thanh-minh",
+      "tao-mo",
+      "tet-han-thuc"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "gio-to-hung-vuong",
+    "vi": "Giỗ Tổ Hùng Vương",
+    "han": "",
+    "en": "Hùng Kings' Commemoration Day",
+    "zh": "雄王祭祖日",
+    "ko": "훙왕 기념일",
+    "definition_vi": "Ngày 10 tháng Ba âm lịch, tưởng nhớ các vua Hùng, được coi là tổ tiên dựng nước của người Việt; lễ hội chính diễn ra tại Đền Hùng (Phú Thọ). Từ năm 2007 đây là ngày nghỉ lễ chính thức.",
+    "definition_en": "The 10th day of the third lunar month, honouring the Hùng kings, regarded as the founding ancestors of the Vietnamese; the main festival is held at the Hùng Temple in Phú Thọ. It has been a public holiday since 2007.",
+    "related": [
+      "gio",
+      "banh-chung"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hung_Kings%27_Festival"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "tet-doan-ngo",
+    "vi": "Tết Đoan ngọ",
+    "han": "端午",
+    "en": "Double Fifth Festival (Đoan ngọ)",
+    "zh": "端午节",
+    "ko": "단오",
+    "definition_vi": "Ngày mùng 5 tháng Năm âm lịch. Ở Việt Nam còn gọi là “Tết diệt sâu bọ”, với tục ăn hoa quả chua và rượu nếp vào buổi sáng.",
+    "definition_en": "The 5th day of the fifth lunar month. In Vietnam it is also called the “pest-killing festival”, with the custom of eating sour fruit and fermented sticky rice in the morning.",
+    "related": [
+      "tet-trung-thu"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dragon_Boat_Festival"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "vu-lan",
+    "vi": "lễ Vu Lan",
+    "han": "盂蘭",
+    "en": "Vu Lan (Ullambana)",
+    "zh": "盂兰盆节",
+    "ko": "백중",
+    "definition_vi": "Lễ Phật giáo ngày rằm tháng Bảy, bắt nguồn từ tích Mục Kiền Liên cứu mẹ, nay được xem là dịp báo hiếu cha mẹ. Nhiều chùa có nghi thức cài hoa hồng trên áo: hoa đỏ cho người còn mẹ, hoa trắng cho người đã mất mẹ.",
+    "definition_en": "A Buddhist festival on the full moon of the seventh lunar month, rooted in the story of Maudgalyāyana saving his mother, and now seen as a time to honour one's parents. Many pagodas hold a rose-pinning rite: red for those whose mother is living, white for those who have lost her.",
+    "related": [
+      "tet-trung-nguyen",
+      "ram"
+    ],
+    "sources": [
+      "https://vi.wikipedia.org/wiki/L%E1%BB%85_Vu_Lan",
+      "https://en.wikipedia.org/wiki/Ghost_Festival"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "tet-trung-nguyen",
+    "vi": "Tết Trung nguyên",
+    "han": "中元",
+    "en": "Trung nguyên (wandering souls day)",
+    "zh": "中元节",
+    "ko": "중원절",
+    "definition_vi": "Cũng vào rằm tháng Bảy, theo tín ngưỡng dân gian là ngày “xá tội vong nhân”. Nhiều gia đình cúng tổ tiên và bày lễ cúng cô hồn, tức các vong không người thờ cúng.",
+    "definition_en": "Also on the full moon of the seventh lunar month; in folk belief the day the souls of the dead are pardoned. Many families make offerings to their ancestors and set out food for wandering souls who have no one to worship them.",
+    "related": [
+      "vu-lan",
+      "cung-co-hon",
+      "tet-nguyen-tieu",
+      "tet-ha-nguyen"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "tet-trung-thu",
+    "vi": "Tết Trung thu",
+    "han": "中秋",
+    "en": "Mid-Autumn Festival",
+    "zh": "中秋节",
+    "ko": "추석",
+    "definition_vi": "Rằm tháng Tám âm lịch; ở Việt Nam nay chủ yếu là tết của trẻ em với đèn ông sao, rước đèn, múa lân và mâm cỗ phá cỗ trông trăng. Bánh nướng và bánh dẻo là món đặc trưng.",
+    "definition_en": "The full moon of the eighth lunar month; in Vietnam today it is above all a children's festival with star lanterns, lantern processions, lion dances and a moon-viewing feast. Baked and sticky mooncakes are the typical food.",
+    "related": [
+      "ram",
+      "tet-doan-ngo"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mid-Autumn_Festival"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "tet-ha-nguyen",
+    "vi": "Tết Hạ nguyên",
+    "han": "下元",
+    "en": "Hạ nguyên Festival",
+    "zh": "下元节",
+    "ko": "하원절",
+    "definition_vi": "Rằm tháng Mười âm lịch, cùng với Thượng nguyên (rằm tháng Giêng) và Trung nguyên (rằm tháng Bảy) tạo thành “tam nguyên”. Ở một số vùng gắn với tết cơm mới sau vụ gặt.",
+    "definition_en": "The full moon of the tenth lunar month; with Thượng nguyên (first month) and Trung nguyên (seventh month) it completes the “three origins”. In some regions it is linked to the new-rice festival after the harvest.",
+    "related": [
+      "tet-nguyen-tieu",
+      "tet-trung-nguyen",
+      "ram"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  }
+]

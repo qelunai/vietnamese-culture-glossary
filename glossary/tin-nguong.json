@@ -1,0 +1,1026 @@
+[
+  {
+    "id": "phong-thuy",
+    "vi": "phong thủy",
+    "han": "風水",
+    "en": "feng shui",
+    "zh": "风水",
+    "ko": "풍수",
+    "definition_vi": "Hệ thống quan niệm truyền thống về việc chọn hướng, vị trí nhà cửa và mộ phần sao cho hài hòa với môi trường. Đây là tri thức dân gian và văn hóa, không phải khoa học kiểm chứng.",
+    "definition_en": "A traditional body of ideas about orienting and siting houses and graves in harmony with their surroundings. It is folk and cultural knowledge, not verified science.",
+    "related": [
+      "la-ban",
+      "bat-trach",
+      "huyen-khong-phi-tinh",
+      "toa-huong"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "am-duong",
+    "vi": "âm dương",
+    "han": "陰陽",
+    "en": "yin and yang",
+    "zh": "阴阳",
+    "ko": "음양",
+    "definition_vi": "Cặp khái niệm đối lập mà bổ sung cho nhau trong triết học phương Đông, như tối và sáng, tĩnh và động. Can, chi, hào quẻ đều được chia thành âm hoặc dương.",
+    "definition_en": "A pair of opposite yet complementary concepts in East Asian thought, such as dark and light or rest and motion. Stems, branches and hexagram lines are each classed as yin or yang.",
+    "related": [
+      "ngu-hanh",
+      "thien-can",
+      "hao"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "ngu-hanh",
+    "vi": "ngũ hành",
+    "han": "五行",
+    "en": "five elements (five phases)",
+    "zh": "五行",
+    "ko": "오행",
+    "definition_vi": "Năm hành Kim, Mộc, Thủy, Hỏa, Thổ, dùng để phân loại sự vật và mô tả quan hệ sinh, khắc giữa chúng. Can chi, nạp âm và quẻ đều được gán hành.",
+    "definition_en": "The five phases Metal, Wood, Water, Fire and Earth, used to classify things and describe how they generate and restrain one another. Stems, branches, nạp âm and trigrams are all assigned a phase.",
+    "related": [
+      "hanh-kim",
+      "hanh-moc",
+      "hanh-thuy",
+      "hanh-hoa",
+      "hanh-tho",
+      "tuong-sinh",
+      "tuong-khac"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "hanh-kim",
+    "vi": "hành Kim",
+    "han": "金",
+    "en": "Metal (element)",
+    "zh": "金",
+    "ko": "금",
+    "definition_vi": "Một trong ngũ hành, tượng trưng cho kim loại. Các can Canh, Tân và các chi Thân, Dậu thuộc hành Kim.",
+    "definition_en": "One of the five elements, standing for metal. The stems Canh, Tân and the branches Thân, Dậu belong to it.",
+    "related": [
+      "ngu-hanh",
+      "tuong-sinh",
+      "tuong-khac"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "hanh-moc",
+    "vi": "hành Mộc",
+    "han": "木",
+    "en": "Wood (element)",
+    "zh": "木",
+    "ko": "목",
+    "definition_vi": "Một trong ngũ hành, tượng trưng cho cây cối. Các can Giáp, Ất và các chi Dần, Mão thuộc hành Mộc.",
+    "definition_en": "One of the five elements, standing for wood. The stems Giáp, Ất and the branches Dần, Mão belong to it.",
+    "related": [
+      "ngu-hanh",
+      "tuong-sinh",
+      "tuong-khac"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "hanh-thuy",
+    "vi": "hành Thủy",
+    "han": "水",
+    "en": "Water (element)",
+    "zh": "水",
+    "ko": "수",
+    "definition_vi": "Một trong ngũ hành, tượng trưng cho nước. Các can Nhâm, Quý và các chi Hợi, Tý thuộc hành Thủy.",
+    "definition_en": "One of the five elements, standing for water. The stems Nhâm, Quý and the branches Hợi, Tý belong to it.",
+    "related": [
+      "ngu-hanh",
+      "tuong-sinh",
+      "tuong-khac"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "hanh-hoa",
+    "vi": "hành Hỏa",
+    "han": "火",
+    "en": "Fire (element)",
+    "zh": "火",
+    "ko": "화",
+    "definition_vi": "Một trong ngũ hành, tượng trưng cho lửa. Các can Bính, Đinh và các chi Tỵ, Ngọ thuộc hành Hỏa.",
+    "definition_en": "One of the five elements, standing for fire. The stems Bính, Đinh and the branches Tỵ, Ngọ belong to it.",
+    "related": [
+      "ngu-hanh",
+      "tuong-sinh",
+      "tuong-khac"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "hanh-tho",
+    "vi": "hành Thổ",
+    "han": "土",
+    "en": "Earth (element)",
+    "zh": "土",
+    "ko": "토",
+    "definition_vi": "Một trong ngũ hành, tượng trưng cho đất. Các can Mậu, Kỷ và các chi Thìn, Tuất, Sửu, Mùi thuộc hành Thổ.",
+    "definition_en": "One of the five elements, standing for earth. The stems Mậu, Kỷ and the branches Thìn, Tuất, Sửu, Mùi belong to it.",
+    "related": [
+      "ngu-hanh",
+      "tuong-sinh",
+      "tuong-khac"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "tuong-sinh",
+    "vi": "tương sinh",
+    "han": "相生",
+    "en": "generating cycle",
+    "zh": "相生",
+    "ko": "상생",
+    "definition_vi": "Quan hệ các hành nuôi dưỡng nhau theo vòng: Mộc sinh Hỏa, Hỏa sinh Thổ, Thổ sinh Kim, Kim sinh Thủy, Thủy sinh Mộc.",
+    "definition_en": "The cycle in which each element feeds the next: Wood feeds Fire, Fire makes Earth, Earth bears Metal, Metal carries Water, Water nourishes Wood.",
+    "related": [
+      "tuong-khac",
+      "ngu-hanh"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "tuong-khac",
+    "vi": "tương khắc",
+    "han": "相剋",
+    "en": "overcoming cycle",
+    "zh": "相克",
+    "ko": "상극",
+    "definition_vi": "Quan hệ các hành chế ngự nhau: Mộc khắc Thổ, Thổ khắc Thủy, Thủy khắc Hỏa, Hỏa khắc Kim, Kim khắc Mộc.",
+    "definition_en": "The cycle in which each element restrains another: Wood over Earth, Earth over Water, Water over Fire, Fire over Metal, Metal over Wood.",
+    "related": [
+      "tuong-sinh",
+      "ngu-hanh"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "nap-am",
+    "vi": "nạp âm",
+    "han": "納音",
+    "en": "nạp âm (sound element)",
+    "zh": "纳音",
+    "ko": "납음",
+    "definition_vi": "Hành gắn với mỗi cặp can chi trong vòng 60, đặt tên bằng hình ảnh thiên nhiên như Hải Trung Kim (vàng trong biển), Lư Trung Hỏa (lửa trong lò). Người ta thường gọi nạp âm của năm sinh là “mệnh”.",
+    "definition_en": "The element attached to each pair in the 60 stem-branch cycle, named after an image from nature such as Hải Trung Kim (“gold in the sea”) or Lư Trung Hỏa (“fire in the furnace”). The nạp âm of one's birth year is often called one's “mệnh”.",
+    "related": [
+      "luc-thap-hoa-giap",
+      "ngu-hanh",
+      "xem-tuoi"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "kinh-dich",
+    "vi": "Kinh Dịch",
+    "han": "易經",
+    "en": "I Ching (Book of Changes)",
+    "zh": "易经",
+    "ko": "주역",
+    "definition_vi": "Kinh điển cổ của Trung Hoa gồm 64 quẻ cùng lời giải, vừa là sách bói vừa là tác phẩm triết học, ảnh hưởng sâu rộng ở Đông Á.",
+    "definition_en": "An ancient Chinese classic of 64 hexagrams with their texts, both a divination manual and a work of philosophy, widely influential across East Asia.",
+    "related": [
+      "que",
+      "bat-quai",
+      "sau-muoi-tu-que",
+      "gieo-que"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "bat-quai",
+    "vi": "bát quái",
+    "han": "八卦",
+    "en": "eight trigrams (bagua)",
+    "zh": "八卦",
+    "ko": "팔괘",
+    "definition_vi": "Tám quẻ đơn, mỗi quẻ gồm ba hào liền hoặc đứt: Càn, Đoài, Ly, Chấn, Tốn, Khảm, Cấn, Khôn. Mỗi quẻ ứng với một hình tượng tự nhiên và một phương hướng.",
+    "definition_en": "The eight trigrams, each made of three solid or broken lines: Càn, Đoài, Ly, Chấn, Tốn, Khảm, Cấn, Khôn. Each stands for an image in nature and a direction.",
+    "related": [
+      "que-can-thien",
+      "tien-thien-bat-quai",
+      "hau-thien-bat-quai",
+      "kinh-dich"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bagua"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "que-can-thien",
+    "vi": "quẻ Càn",
+    "han": "乾",
+    "en": "Càn trigram (Heaven) ☰",
+    "zh": "乾",
+    "ko": "건",
+    "definition_vi": "Một trong tám quẻ đơn của bát quái, ký hiệu ☰, hình tượng là trời (Thiên).",
+    "definition_en": "One of the eight trigrams, written ☰, whose image is heaven.",
+    "related": [
+      "bat-quai",
+      "que"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bagua"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "que-doai-trach",
+    "vi": "quẻ Đoài",
+    "han": "兌",
+    "en": "Đoài trigram (Lake) ☱",
+    "zh": "兑",
+    "ko": "태",
+    "definition_vi": "Một trong tám quẻ đơn của bát quái, ký hiệu ☱, hình tượng là đầm, hồ (Trạch).",
+    "definition_en": "One of the eight trigrams, written ☱, whose image is lake.",
+    "related": [
+      "bat-quai",
+      "que"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bagua"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "que-ly-hoa",
+    "vi": "quẻ Ly",
+    "han": "離",
+    "en": "Ly trigram (Fire) ☲",
+    "zh": "离",
+    "ko": "이",
+    "definition_vi": "Một trong tám quẻ đơn của bát quái, ký hiệu ☲, hình tượng là lửa (Hỏa).",
+    "definition_en": "One of the eight trigrams, written ☲, whose image is fire.",
+    "related": [
+      "bat-quai",
+      "que"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bagua"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "que-chan-loi",
+    "vi": "quẻ Chấn",
+    "han": "震",
+    "en": "Chấn trigram (Thunder) ☳",
+    "zh": "震",
+    "ko": "진",
+    "definition_vi": "Một trong tám quẻ đơn của bát quái, ký hiệu ☳, hình tượng là sấm (Lôi).",
+    "definition_en": "One of the eight trigrams, written ☳, whose image is thunder.",
+    "related": [
+      "bat-quai",
+      "que"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bagua"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "que-ton-phong",
+    "vi": "quẻ Tốn",
+    "han": "巽",
+    "en": "Tốn trigram (Wind) ☴",
+    "zh": "巽",
+    "ko": "손",
+    "definition_vi": "Một trong tám quẻ đơn của bát quái, ký hiệu ☴, hình tượng là gió (Phong).",
+    "definition_en": "One of the eight trigrams, written ☴, whose image is wind.",
+    "related": [
+      "bat-quai",
+      "que"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bagua"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "que-kham-thuy",
+    "vi": "quẻ Khảm",
+    "han": "坎",
+    "en": "Khảm trigram (Water) ☵",
+    "zh": "坎",
+    "ko": "감",
+    "definition_vi": "Một trong tám quẻ đơn của bát quái, ký hiệu ☵, hình tượng là nước (Thủy).",
+    "definition_en": "One of the eight trigrams, written ☵, whose image is water.",
+    "related": [
+      "bat-quai",
+      "que"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bagua"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "que-can-son",
+    "vi": "quẻ Cấn",
+    "han": "艮",
+    "en": "Cấn trigram (Mountain) ☶",
+    "zh": "艮",
+    "ko": "간",
+    "definition_vi": "Một trong tám quẻ đơn của bát quái, ký hiệu ☶, hình tượng là núi (Sơn).",
+    "definition_en": "One of the eight trigrams, written ☶, whose image is mountain.",
+    "related": [
+      "bat-quai",
+      "que"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bagua"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "que-khon-dia",
+    "vi": "quẻ Khôn",
+    "han": "坤",
+    "en": "Khôn trigram (Earth) ☷",
+    "zh": "坤",
+    "ko": "곤",
+    "definition_vi": "Một trong tám quẻ đơn của bát quái, ký hiệu ☷, hình tượng là đất (Địa).",
+    "definition_en": "One of the eight trigrams, written ☷, whose image is earth.",
+    "related": [
+      "bat-quai",
+      "que"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bagua"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "tien-thien-bat-quai",
+    "vi": "Tiên thiên bát quái",
+    "han": "先天八卦",
+    "en": "Earlier Heaven arrangement",
+    "zh": "先天八卦",
+    "ko": "선천팔괘",
+    "definition_vi": "Cách xếp tám quẻ theo từng cặp đối nhau (Càn đối Khôn, Ly đối Khảm…), tương truyền do Phục Hy đặt ra.",
+    "definition_en": "The arrangement of the eight trigrams in opposing pairs (Càn facing Khôn, Ly facing Khảm…), traditionally attributed to Fu Xi.",
+    "related": [
+      "bat-quai",
+      "hau-thien-bat-quai"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bagua"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "hau-thien-bat-quai",
+    "vi": "Hậu thiên bát quái",
+    "han": "後天八卦",
+    "en": "Later Heaven arrangement",
+    "zh": "后天八卦",
+    "ko": "후천팔괘",
+    "definition_vi": "Cách xếp tám quẻ tương truyền của Văn Vương, gắn mỗi quẻ với một phương: Ly ở Nam, Khảm ở Bắc, Chấn ở Đông, Đoài ở Tây. Phong thủy nhà ở thường dùng cách xếp này.",
+    "definition_en": "The arrangement traditionally attributed to King Wen, which assigns each trigram a direction: Ly south, Khảm north, Chấn east, Đoài west. House feng shui mostly uses it.",
+    "related": [
+      "bat-quai",
+      "tien-thien-bat-quai",
+      "cuu-cung"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bagua"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "que",
+    "vi": "quẻ",
+    "han": "卦",
+    "en": "trigram or hexagram (gua)",
+    "zh": "卦",
+    "ko": "괘",
+    "definition_vi": "Hình gồm các hào liền (dương) và đứt (âm) xếp chồng; ba hào là quẻ đơn, sáu hào là quẻ kép. Cũng chỉ kết quả của một lần gieo quẻ.",
+    "definition_en": "A figure of stacked solid (yang) and broken (yin) lines; three lines make a trigram, six a hexagram. The word also means the result of a casting.",
+    "related": [
+      "hao",
+      "bat-quai",
+      "sau-muoi-tu-que",
+      "gieo-que"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "hao",
+    "vi": "hào",
+    "han": "爻",
+    "en": "line (of a hexagram)",
+    "zh": "爻",
+    "ko": "효",
+    "definition_vi": "Mỗi vạch của một quẻ, liền là dương, đứt là âm; quẻ kép có sáu hào đếm từ dưới lên. Hào động là hào biến sang âm hoặc dương ngược lại khi gieo quẻ.",
+    "definition_en": "Each line of a gua, solid for yang and broken for yin; a hexagram has six lines counted from the bottom. A moving line is one that turns into its opposite in a casting.",
+    "related": [
+      "que",
+      "am-duong"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "sau-muoi-tu-que",
+    "vi": "sáu mươi tư quẻ",
+    "han": "六十四卦",
+    "en": "sixty-four hexagrams",
+    "zh": "六十四卦",
+    "ko": "64괘",
+    "definition_vi": "Tất cả các quẻ kép tạo thành từ việc chồng hai quẻ đơn, từ Thuần Càn đến Hỏa Thủy Vị Tế theo thứ tự Văn Vương. Tên Hán Việt của quẻ thường ghép hình tượng hai quẻ đơn với tên quẻ, như Thủy Lôi Truân.",
+    "definition_en": "All the hexagrams formed by stacking two trigrams, from Thuần Càn to Hỏa Thủy Vị Tế in King Wen order. The Sino-Vietnamese name usually joins the images of the two trigrams with the hexagram's name, as in Thủy Lôi Truân.",
+    "related": [
+      "que",
+      "kinh-dich",
+      "bat-quai"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "gieo-que",
+    "vi": "gieo quẻ",
+    "han": "",
+    "en": "casting a hexagram",
+    "zh": "起卦",
+    "ko": "괘 뽑기",
+    "definition_vi": "Cách lập một quẻ để tham khảo Kinh Dịch, phổ biến là tung ba đồng xu sáu lần, mỗi lần cho một hào từ dưới lên.",
+    "definition_en": "Forming a hexagram to consult the I Ching, most commonly by tossing three coins six times, each toss giving one line from the bottom up.",
+    "related": [
+      "que",
+      "hao",
+      "kinh-dich",
+      "mai-hoa-dich-so"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "mai-hoa-dich-so",
+    "vi": "Mai Hoa Dịch Số",
+    "han": "梅花易數",
+    "en": "Plum Blossom Numerology",
+    "zh": "梅花易数",
+    "ko": "매화역수",
+    "definition_vi": "Phương pháp lập quẻ từ con số (như ngày giờ hoặc chữ số) thay vì gieo đồng xu, tương truyền của Thiệu Khang Tiết đời Tống.",
+    "definition_en": "A method of forming a hexagram from numbers (such as the date and hour, or digits) instead of tossing coins, traditionally attributed to Shao Yong of the Song dynasty.",
+    "related": [
+      "gieo-que",
+      "kinh-dich"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "la-ban",
+    "vi": "la bàn phong thủy",
+    "han": "羅盤",
+    "en": "feng shui compass (luopan)",
+    "zh": "罗盘",
+    "ko": "나경",
+    "definition_vi": "La bàn có nhiều vòng ký hiệu (bát quái, 24 sơn…) quanh kim nam châm, dùng để đo hướng nhà, hướng mộ trong phong thủy.",
+    "definition_en": "A compass with many rings of symbols (trigrams, the 24 mountains…) around a magnetic needle, used in feng shui to read the facing of houses and graves.",
+    "related": [
+      "phong-thuy",
+      "hai-muoi-bon-son",
+      "toa-huong"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "toa-huong",
+    "vi": "tọa hướng",
+    "han": "坐向",
+    "en": "sitting and facing",
+    "zh": "坐向",
+    "ko": "좌향",
+    "definition_vi": "Hai hướng đối nhau của một ngôi nhà hay ngôi mộ: “tọa” là phía lưng tựa vào, “hướng” là phía mặt nhìn ra. Phong thủy đọc tọa hướng bằng la bàn.",
+    "definition_en": "The two opposite directions of a house or grave: the “sitting” side at its back and the “facing” side at its front. Feng shui reads them with a luopan.",
+    "related": [
+      "la-ban",
+      "hai-muoi-bon-son",
+      "phong-thuy"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "hai-muoi-bon-son",
+    "vi": "hai mươi bốn sơn",
+    "han": "二十四山",
+    "en": "twenty-four mountains",
+    "zh": "二十四山",
+    "ko": "이십사산",
+    "definition_vi": "Cách chia vòng tròn hướng thành 24 phần, mỗi phần 15°, đặt tên theo 8 can, 12 chi và 4 quẻ (Càn, Khôn, Cấn, Tốn).",
+    "definition_en": "The division of the compass circle into 24 sectors of 15°, named after 8 stems, the 12 branches and 4 trigrams (Càn, Khôn, Cấn, Tốn).",
+    "related": [
+      "la-ban",
+      "toa-huong"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "bat-trach",
+    "vi": "Bát Trạch",
+    "han": "八宅",
+    "en": "Eight Mansions",
+    "zh": "八宅",
+    "ko": "팔택",
+    "definition_vi": "Trường phái phong thủy chia người theo mệnh quái thành Đông tứ mệnh và Tây tứ mệnh, rồi xếp tám hướng thành bốn hướng tốt (Sinh Khí, Thiên Y, Diên Niên, Phục Vị) và bốn hướng xấu.",
+    "definition_en": "A feng shui school that groups people by kua number into East and West groups, and ranks the eight directions as four favourable (Sinh Khí, Thiên Y, Diên Niên, Phục Vị) and four unfavourable ones.",
+    "related": [
+      "menh-quai",
+      "phong-thuy",
+      "la-ban"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "menh-quai",
+    "vi": "mệnh quái",
+    "han": "命卦",
+    "en": "kua number (life trigram)",
+    "zh": "命卦",
+    "ko": "명괘",
+    "definition_vi": "Quẻ, kèm số từ 1 đến 9, tính từ năm sinh và giới tính, dùng trong Bát Trạch để chọn hướng hợp với người ở.",
+    "definition_en": "A trigram, with a number from 1 to 9, worked out from birth year and sex and used in Eight Mansions to choose directions for a person.",
+    "related": [
+      "bat-trach",
+      "bat-quai"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "cuu-cung",
+    "vi": "cửu cung",
+    "han": "九宮",
+    "en": "nine palaces",
+    "zh": "九宫",
+    "ko": "구궁",
+    "definition_vi": "Lưới 3 × 3 ô tương ứng tám hướng và trung tâm, gắn với Lạc thư và Hậu thiên bát quái; được dùng trong nhiều phép phong thủy và lịch pháp.",
+    "definition_en": "A 3 × 3 grid for the eight directions and the centre, linked to the Lo Shu square and the Later Heaven trigrams; used in many feng shui and calendrical methods.",
+    "related": [
+      "huyen-khong-phi-tinh",
+      "hau-thien-bat-quai"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "huyen-khong-phi-tinh",
+    "vi": "Huyền Không Phi Tinh",
+    "han": "玄空飛星",
+    "en": "Flying Stars",
+    "zh": "玄空飞星",
+    "ko": "현공비성",
+    "definition_vi": "Trường phái phong thủy xét chín “sao” (số 1–9) di chuyển qua cửu cung theo thời gian (vận 20 năm, năm, tháng) và theo tọa hướng nhà.",
+    "definition_en": "A feng shui school that follows nine “stars” (numbers 1–9) moving through the nine palaces over time (20-year periods, years, months) and according to a building's facing.",
+    "related": [
+      "cuu-cung",
+      "toa-huong",
+      "phong-thuy"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "tu-vi",
+    "vi": "Tử vi",
+    "han": "紫微斗數",
+    "en": "Zi Wei Dou Shu (Purple Star astrology)",
+    "zh": "紫微斗数",
+    "ko": "자미두수",
+    "definition_vi": "Phép lập lá số từ ngày giờ sinh âm lịch, an các sao vào 12 cung như Mệnh, Tài Bạch, Quan Lộc. Đây là thuật số dân gian, mang tính tham khảo văn hóa.",
+    "definition_en": "A chart built from the lunar date and hour of birth that places stars in twelve palaces such as Life, Wealth and Career. It is a folk divination art, of cultural interest.",
+    "related": [
+      "bat-tu",
+      "thoi-than"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "bat-tu",
+    "vi": "bát tự",
+    "han": "八字",
+    "en": "Four Pillars (BaZi)",
+    "zh": "八字",
+    "ko": "사주",
+    "definition_vi": "Tám chữ can chi của năm, tháng, ngày, giờ sinh, còn gọi là tứ trụ. Năm và tháng tính theo tiết khí, đổi năm ở Lập xuân.",
+    "definition_en": "The eight stem-branch characters of the year, month, day and hour of birth, also called the four pillars. Year and month follow the solar terms, with the year changing at Start of Spring.",
+    "related": [
+      "can-chi",
+      "lap-xuan",
+      "tu-vi"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "chon-ngay",
+    "vi": "chọn ngày",
+    "han": "擇日",
+    "en": "date selection",
+    "zh": "择日",
+    "ko": "택일",
+    "definition_vi": "Tập quán xem lịch để chọn ngày giờ cho việc lớn như cưới hỏi, động thổ, khai trương, xuất hành, dựa vào hoàng đạo, trực, sao và tuổi. Đây là quy ước văn hóa, không bảo đảm kết quả.",
+    "definition_en": "The custom of consulting the almanac to pick a day and hour for major events such as weddings, groundbreaking, openings or journeys, using hoàng đạo days, day officers, mansions and age. It is a cultural convention and guarantees nothing.",
+    "related": [
+      "ngay-hoang-dao",
+      "gio-hoang-dao",
+      "thap-nhi-truc",
+      "tuoi-xung"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "xem-tuoi",
+    "vi": "xem tuổi",
+    "han": "",
+    "en": "age compatibility check",
+    "zh": "合婚",
+    "ko": "궁합",
+    "definition_vi": "Việc so tuổi (can chi, nạp âm, con giáp) của hai người, thường trước khi cưới hoặc làm ăn chung, theo quan niệm hợp, xung truyền thống.",
+    "definition_en": "Comparing two people's birth years (stems and branches, nạp âm, zodiac animals), often before marriage or a partnership, by traditional ideas of harmony and clash.",
+    "related": [
+      "tuoi-xung",
+      "tam-hop",
+      "nap-am",
+      "con-giap"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "tuoi-xung",
+    "vi": "tuổi xung",
+    "han": "相沖",
+    "en": "clashing birth years",
+    "zh": "相冲",
+    "ko": "상충",
+    "definition_vi": "Hai chi đối nhau trên vòng 12 chi, như Tý và Ngọ, Mão và Dậu; dân gian coi là không hợp. Lịch thường ghi “tuổi xung” của mỗi ngày.",
+    "definition_en": "Two branches opposite each other on the circle of twelve, such as Tý and Ngọ or Mão and Dậu, held in folk belief to be at odds. Almanacs often list the birth years that clash with each day.",
+    "related": [
+      "tam-hop",
+      "xem-tuoi",
+      "dia-chi"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "tam-hop",
+    "vi": "tam hợp",
+    "han": "三合",
+    "en": "three harmonies",
+    "zh": "三合",
+    "ko": "삼합",
+    "definition_vi": "Bốn nhóm ba chi được coi là hợp nhau: Thân Tý Thìn, Dần Ngọ Tuất, Tỵ Dậu Sửu, Hợi Mão Mùi.",
+    "definition_en": "Four groups of three branches held to be in harmony: Thân-Tý-Thìn, Dần-Ngọ-Tuất, Tỵ-Dậu-Sửu, Hợi-Mão-Mùi.",
+    "related": [
+      "tuoi-xung",
+      "xem-tuoi",
+      "dia-chi"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "tam-tai",
+    "vi": "tam tai",
+    "han": "三災",
+    "en": "three calamities (tam tai years)",
+    "zh": "三灾",
+    "ko": "삼재",
+    "definition_vi": "Theo quan niệm dân gian, ba năm liên tiếp trong chu kỳ 12 năm được cho là kém thuận với người mỗi nhóm tam hợp; nhiều người tránh làm việc lớn trong các năm này.",
+    "definition_en": "In folk belief, three consecutive years in each 12-year cycle held to be unfavourable for people of a given three-harmony group; many avoid major undertakings in those years.",
+    "related": [
+      "tam-hop",
+      "kieng-ky"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "thai-tue",
+    "vi": "Thái Tuế",
+    "han": "太歲",
+    "en": "Tai Sui (Grand Duke of the year)",
+    "zh": "太岁",
+    "ko": "태세",
+    "definition_vi": "Vị thần cai quản mỗi năm trong tín ngưỡng dân gian, gắn với chi của năm; người có tuổi xung với năm đó thường được nói là “phạm Thái Tuế”.",
+    "definition_en": "In folk belief the deity presiding over each year, tied to the year's branch; people whose birth branch clashes with it are said to “offend Tai Sui”.",
+    "related": [
+      "tuoi-xung",
+      "dia-chi"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "hy-than",
+    "vi": "Hỷ Thần",
+    "han": "喜神",
+    "en": "Joy Spirit (direction)",
+    "zh": "喜神",
+    "ko": "희신",
+    "definition_vi": "Thần mang niềm vui trong lịch pháp dân gian; lịch thường ghi hướng Hỷ Thần mỗi ngày để người xuất hành tham khảo.",
+    "definition_en": "The spirit of joy in folk almanacs; calendars often give its direction for each day for people setting out on a journey.",
+    "related": [
+      "chon-ngay",
+      "than-tai"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "than-tai",
+    "vi": "Thần Tài",
+    "han": "財神",
+    "en": "God of Wealth",
+    "zh": "财神",
+    "ko": "재신",
+    "definition_vi": "Vị thần tài lộc trong tín ngưỡng dân gian, thường thờ cùng Thổ Địa trong bàn thờ nhỏ đặt sát đất ở cửa hàng và nhà ở.",
+    "definition_en": "The folk god of wealth, usually worshipped together with the Earth God at a small floor-level altar in shops and homes.",
+    "related": [
+      "tho-dia",
+      "via-than-tai",
+      "khai-truong"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "tho-dia",
+    "vi": "Thổ Địa",
+    "han": "土地",
+    "en": "Earth God (local land spirit)",
+    "zh": "土地",
+    "ko": "토지신",
+    "definition_vi": "Thần cai quản đất đai của một nơi, theo tín ngưỡng dân gian; được khấn báo khi động thổ, nhập trạch và thờ cùng Thần Tài.",
+    "definition_en": "In folk belief the spirit governing a piece of land; it is addressed at groundbreaking and moving in, and worshipped together with the God of Wealth.",
+    "related": [
+      "than-tai",
+      "dong-tho",
+      "nhap-trach"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "tao-quan",
+    "vi": "Táo Quân",
+    "han": "灶君",
+    "en": "Kitchen God",
+    "zh": "灶君",
+    "ko": "조왕신",
+    "definition_vi": "Vị thần bếp trong tín ngưỡng dân gian, ở Việt Nam thường hình dung là hai ông một bà (“ông Công ông Táo”), cai quản việc trong nhà.",
+    "definition_en": "The kitchen deity of folk belief, in Vietnam usually pictured as two men and a woman (“ông Công ông Táo”), who oversee the household.",
+    "related": [
+      "ong-cong-ong-tao"
+    ],
+    "sources": [
+      "https://vi.wikipedia.org/wiki/T%C3%A1o_Qu%C3%A2n"
+    ],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "thanh-hoang",
+    "vi": "Thành hoàng",
+    "han": "城隍",
+    "en": "village tutelary deity",
+    "zh": "城隍",
+    "ko": "성황",
+    "definition_vi": "Vị thần bảo hộ một làng, thờ ở đình làng; có thể là nhân vật lịch sử, người có công lập làng hoặc nhiên thần.",
+    "definition_en": "The guardian deity of a village, worshipped at the communal house (đình); it may be a historical figure, the village founder or a nature spirit.",
+    "related": [
+      "tho-dia"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "kieng-ky",
+    "vi": "kiêng kỵ",
+    "han": "",
+    "en": "taboos",
+    "zh": "禁忌",
+    "ko": "금기",
+    "definition_vi": "Những điều dân gian khuyên tránh trong một dịp hay ngày nhất định, như kiêng quét nhà ngày mùng một Tết. Mức độ tuân theo khác nhau rất nhiều giữa các gia đình.",
+    "definition_en": "Things folk custom advises avoiding on certain occasions or days, such as not sweeping the house on the first day of Tết. How strictly they are followed varies widely between families.",
+    "related": [
+      "tet-nguyen-dan",
+      "tam-tai"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  },
+  {
+    "id": "xin-xam",
+    "vi": "xin xăm",
+    "han": "",
+    "en": "drawing fortune sticks",
+    "zh": "求签",
+    "ko": "점대 뽑기",
+    "definition_vi": "Tục ở một số đền chùa: lắc ống thẻ đến khi một que rơi ra, rồi đọc bài thơ ứng với số trên que. Người đi lễ thường coi đó là lời khuyên để suy ngẫm.",
+    "definition_en": "A practice at some temples of shaking a cup of numbered sticks until one falls out, then reading the verse that matches its number. Visitors usually take it as advice to reflect on.",
+    "related": [
+      "le-chua-dau-nam"
+    ],
+    "sources": [],
+    "review": {
+      "zh": "needs-native-review",
+      "ko": "needs-native-review"
+    }
+  }
+]

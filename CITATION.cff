@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this glossary, please cite it as below."
+title: "Vietnamese Culture Glossary"
+abstract: "Glossary of Vietnamese lunar calendar, festival, family custom and folk belief terms in Vietnamese, English, Chinese and Korean."
+type: dataset
+authors:
+  - name: "Qelunai"
+version: 0.1.0
+license: CC-BY-4.0
+repository-code: "https://github.com/qelunai/vietnamese-culture-glossary"
+url: "https://qelunai.com/tu-dien/"
+keywords:
+  - Vietnamese
+  - lunar calendar
+  - glossary
+  - culture
+  - translation
